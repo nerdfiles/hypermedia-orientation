@@ -30,6 +30,11 @@ guarantee uniqueness (controllable reduction of collisions).
 
 # Metaproblems to sell more problems
 
+<blockquote><p>The net was then tested for its ability to detect this grammatical structure with strings that were not in the training set. The net correctly predicted what the legal continuations of novel input strings would be in agreement with the grammar.</p>
+<div><cite>Cognition without Classical Architecture. Garson, James.<sup>[cog]</sup></cite></div></blockquote>
+
+# Metaproblems to sell more problems
+
 What a deliciously gnarly question:
 
 "Isn’t there a need for cacheing the results of the various reasoners in a FOL 
@@ -298,4 +303,5 @@ automaton using an explicit context-sensitive "language of thought."
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
 [compcause]: https://www.research-collection.ethz.ch/handle/20.500.11850/312278
 [attn]: https://onlinelibrary.wiley.com/doi/epdf/10.1207/s15516709cog2301_4
+[cog]: https://www.researchgate.net/publication/226508713_Cognition_without_classical_architecture
 
