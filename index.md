@@ -33,6 +33,9 @@ guarantee uniqueness (controllable reduction of collisions).
 <blockquote><p>The net was then tested for its ability to detect this grammatical structure with strings that were not in the training set. The net correctly predicted what the legal continuations of novel input strings would be in agreement with the grammar.</p>
 <div><cite>Cognition without Classical Architecture. Garson, James.<sup>[cog]</sup></cite></div></blockquote>
 
+These "strings" we are concerned with, as "values" of the <code>[rel]</code>, I have called "non-standard link relations": as a harmonization of François Laruelle's "Non-standard Philosophy" and Alfred Jarry's 'Pataphysics. 
+A scientific formulization of Clinamen, Anomalous, Absolute, Antinomy, Pataphor and Syzygy in terms of mechanism and mechanism-structure which may be realized with in the semiotic space of possibiliity of action.
+
 # Metaproblems to sell more problems
 
 What a deliciously gnarly question:
