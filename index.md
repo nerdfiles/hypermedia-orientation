@@ -276,7 +276,7 @@ up with neural networks (specifically, syntactically trained recurrent nets.
 
 # Understating Hypermedia
 
-We're not going fulll Language of Thought:
+We're not going full Language of Thought:
 
 <blockquote><p>If this scenario is correct we can conclude that the 
 possibility space that was searched through evolution, both biological and 
