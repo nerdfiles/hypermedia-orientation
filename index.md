@@ -39,7 +39,7 @@ But... "However, ◊◻A→A says that if A is possibly necessary, then A is the
 
 We need to adapt this question to account for the understanding that the English, as much as any other language, involves ambiguity: we cannot just throw FOL into the web space; to adjust:
 
-Isn't there a need for cacheing the results of the various reasons in First-order modal Logic (as well as Free Logic, Intuitionistic and other non-classical logics which might include "domain functions," etc. such that assigns each possible world its own domain)?
+Isn't there a need for cacheing the results of the various reasons in First-order modal Logic (as well as Free Logic, Intuitionistic and other non-classical logics which might include "domain functions," etc. such that assignments are made to each possible world its own domain)?
 
 Indeed, the web may never be unified according to facts: there is no ultimate language (François Laruelle). At most, we have correlational matrices from which to model domains in the web's possibility space of action.
 
