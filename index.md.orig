@@ -5,11 +5,15 @@ title: Hypermedia-orientation and the generic hypertext
 # Brass Syntax
 
 Remember JSX (a cursed abomination from Facebook that exceedingly privileges 
+<<<<<<< HEAD
 DX over FX: <i>frontend experience</i>; why restrict ourselves to only humans 
 or "people" as those engaging our tools?)? Well, aside from it being 
 insufferable for CTags users, let's consider an example library that would 
 make trivial the mapping of "syntactic" (lexical; i.e. grammatical) structure 
 (categories?) to our (in)famous URL space:
+=======
+DX over FX: <i>frontend experience</i>; why restrict ourselves to only humans or "people" as those engaging our tools?)? Aside from it being insufferable for CTags users, let's consider an example library that would make trivial the mapping of "syntactic" (lexical; i.e., grammatical) structure (categories? types?) to our (in)famous URL space:
+>>>>>>> cfc2ac5f9eda713bc5c94df9311435f9ea18c7a7
 
 ```
   <link rel={vm.lexicalStructure}
@@ -64,6 +68,7 @@ We need to adapt this question to account for the understanding that the
 English, as much as any other language, involves ambiguity: we cannot just 
 throw FOL into the web space; to adjust:
 
+<<<<<<< HEAD
 Isn't there a need for cacheing the results of the various reasons in 
 First-order modal Logic (as well as Free Logic, Intuitionistic and other 
 non-classical logics which might include "domain functions," etc. such that 
@@ -72,6 +77,11 @@ assignments are made to each possible world its own domain)?
 Indeed, the web may never be unified according to facts: there is no ultimate 
 language (François Laruelle). At most, we have correlational matrices from 
 which to model domains in the web's possibility space of action.
+=======
+Isn't there a need for cacheing the results of the various reasons in First-order modal Logic (FOML; as well as Free Logic, Intuitionistic and other non-classical logics which might include "domain functions," etc. such that assignments are made to each possible world its own domain)?
+
+Indeed, the semantic web may never be unified according to facts: there is no ultimate language (Principles of Non-philosophy. François Laruelle). At most, we have correlational matrices from which to model domains (functionality) in the web's possibility space of action (see DeLanda).
+>>>>>>> cfc2ac5f9eda713bc5c94df9311435f9ea18c7a7
 
 # Metaproblems to sell more problems
 
