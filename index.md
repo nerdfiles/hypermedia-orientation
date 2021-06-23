@@ -5,11 +5,11 @@ title: Hypermedia-orientation and the generic hypertext
 # Brass Syntax
 
 Remember JSX (a cursed abomination from Facebook that exceedingly privileges 
-DX over FX: <i>frontend experience</i>; why restrict ourselves to only humans or "people" as those engaging our tools?)? Well, aside from it being insufferable for CTags users, let's consider an example library that would make trivial the mapping of "syntactic" (lexical; i.e. grammatical) structure (categories?) to our (in)famous URL space:
+DX over FX: <i>frontend experience</i>; why restrict ourselves to only humans or "people" as those engaging our tools?)? Aside from it being insufferable for CTags users, let's consider an example library that would make trivial the mapping of "syntactic" (lexical; i.e., grammatical) structure (categories? types?) to our (in)famous URL space:
 
 ```
   <link rel={vm.lexicalStructure}
-        href={affordance.www.example.com({ urlConfig })} />
+        href={API.affordance.www.example.com({ urlConfig })} />
 ```
 
 Our first design assumption is that any given expression of a link relation,
@@ -284,7 +284,7 @@ up with neural networks (specifically, syntactically trained recurrent nets.
 
 # Understating Hypermedia
 
-We're not going full Language of Thought:
+We're not going full Language of Thought (LOT):
 
 <blockquote><p>If this scenario is correct we can conclude that the 
 possibility space that was searched through evolution, both biological and 
