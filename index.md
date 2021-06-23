@@ -1,7 +1,9 @@
 <h1 style="text-align: center;">Hypermedia-orientation and the generic hypertext</h1>
 
 <div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png" alt="periodic table of information" style="width: 40vw" /></div>
+<img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png" 
+     alt="periodic table of information" 
+     style="width: 40vw" /></div>
 
 # Brass Syntax
 
@@ -466,9 +468,14 @@ those who think our brains must embody a genetically coded linear-bounded
 automaton using an explicit context-sensitive "language of thought."
 </p><div><cite>Philosophy and Simulation</p></blockquote>
 
-# Understating Hypermedia
+# Hypermedia or Hyperobject?
 
-...
+<blockquote><p>Casting is the act of converting peaches, cherries, grapes into fruit. It is 
+possible to cast toward specificity. But what interests us here is the act of 
+upcasting or casting "upward" toward the generic supernature.</p></blockquote>
+
+Subscendence: A whole (superstructure) subscends its parts (acts, enactments, 
+personae, etc.) of the base structure.
 
 ---
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
