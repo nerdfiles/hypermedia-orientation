@@ -34,6 +34,33 @@ guarantee uniqueness (controllable reduction of collisions).
 
 # Metaproblems to sell more problems
 
+Abstract Link Relations (or, elsewhere said: "non-standard link relations" 
+hypothesized to bear truth, if not the sentence-subject, from immanent 
+algebraic and algorithmic structure of strings of link relation; think medium 
+specificity a la Fazi). Other examples?
+
+1. XDIMessages
+2. Any terminal commands 
+3. YUML
+4. ASCII 
+5. Modal FOL (S5, S4, doxastic logics, epistemic logics, temporal logics, etc.)
+6. Sheet music (and degradations: guitar tabs, etc.)
+
+Non-standard Link Relation concerns how we transindividuate affordances through 
+metasymbolic expression of interiority/exteriority, 
+universality/particiularity, relata-specificty insofar as we define 
+pre-configuration, pre-organizational structure immanent to mechanism and 
+mechanism-independent structure, properties, tendency and capacity in 
+metacomputational and non-metacomputational procedure.
+
+# Metaproblems to sell more problems
+
+There is of course a "cache" that resides in various intermediaries: we may 
+systematically analyze these strings using "context units" (in much the same 
+way the "Context Object" improved on the Event Loop Design Pattern[co]).
+
+# Metaproblems to sell more problems
+
 <blockquote><p>The net was then tested for its ability to detect this 
 grammatical structure with strings that were not in the training set. The net 
 correctly predicted what the legal continuations of novel input strings would 
@@ -180,10 +207,10 @@ relations as causal relations</i>).
                         e.g., https://example.com/api/cars/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a:DriveAction
 ```
 
-For ODRL validation logic use CASL with Seneca, etc. For the GUID, has the 
-object that is being posted or use REST extended with a queue mechanism for 
-de-duping and use the sequence ID as the input for the hash, place in a DHT 
-for processing by the peer network depending on the type of resource that it
+For ODRL, Linked Data Proofs[ld-proof] validation logic use CASL with Seneca, 
+etc. For the GUID, has the object that is being posted or use REST extended 
+with a queue mechanism for de-duping and use the sequence ID as the input for 
+the hash, place in a DHT for processing by the peer network depending on the type of resource that it
 presupposes: mining, agriculture, manufacturing and construction resources will 
 require a certain number of nodes to generating a sufficient number of 
 confirmations to determine its ontological integrity in order to counter 
@@ -426,4 +453,5 @@ automaton using an explicit context-sensitive "language of thought."
 [compcause]: https://www.research-collection.ethz.ch/handle/20.500.11850/312278
 [attn]: https://onlinelibrary.wiley.com/doi/epdf/10.1207/s15516709cog2301_4
 [cog]: https://www.researchgate.net/publication/226508713_Cognition_without_classical_architecture
-
+[ld-proof]: https://w3c-ccg.github.io/ld-proofs/#linked-data-proof-overview
+[co]: https://www.dre.vanderbilt.edu/~schmidt/PDF/Context-Object-Pattern.pdf
