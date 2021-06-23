@@ -378,7 +378,7 @@ Let's take a detour, Philosophy and Simulation (Manuel DeLanda):
 <blockquote><p>Yet despite these differences a convection cell and a chemical 
 clock, as these reactions are called, are qualitatively the same. This implies 
 that a full explanation of these emergent entities must possess a component 
-that is independent of any particular mechanism.</p><div><cite>Philosophy and Simulation<cite></div></blockquote>
+that is independent of any particular mechanism.</p><div><cite>Philosophy and Simulation<sup>[philandsim]</sup><cite></div></blockquote>
 
 # Understating Hypermedia
 
@@ -414,7 +414,7 @@ equations can also display that behavior.</p>
 
 # Understating Hypermedia
 
-<blockquote><p>The mechanism-independent component of an explanation, on the 
+<blockquote href="note"><p>The mechanism-independent component of an explanation, on the 
 other hand, demands clarifying the status of tendencies and capacities when 
 they are not actually manifested or exercised. We could, of course, 
 characterize that status as that of a possibility but that would be too vague: 
@@ -451,7 +451,7 @@ structure</i> and Alvaro et al.'s concept of <i>consistency as logical
 monotonicity</i>; but not (just) these ideas: we also want to fuck shit 
 up with neural networks (specifically, syntactically trained recurrent nets.
 
-<strong>Hold onto your butts?</strong> (Though it should be fairly obvious where this is headed...)
+<strong>Hold onto your ifs and buts?</strong> (Though it should be fairly obvious where this is headed...)
 
 # Understating Hypermedia
 
@@ -477,6 +477,34 @@ upcasting or casting "upward" toward the generic supernature.</p></blockquote>
 Subscendence: A whole (superstructure) subscends its parts (acts, enactments, 
 personae, etc.) of the base structure.
 
+<blockquote><p>A whole is <i>subcended</i> by its parts.</p></blockquote>
+
+# Hypermedia or Hyperobject: Examples
+
+```
+-------------------
+metonymical       | copyrighting land as art
+-------------------
+metaphorical
+-------------------
+synechdochical
+-------------------
+ironical
+-------------------
+pataphorical
+-------------------
+syzygetical
+-------------------
+anomalitical
+-------------------
+antinomical
+-------------------
+absolutic
+-------------------
+clinametical
+-------------------
+```
+
 ---
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
@@ -488,3 +516,4 @@ personae, etc.) of the base structure.
 [calm]: http://db.cs.berkeley.edu/jmh/calm-cidr-short.pdf
 [rfc2616]: https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.2
 [mmi]: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.md
+[philandsim]: https://www.bloomsbury.com/us/philosophy-and-simulation-9781350096790/
