@@ -74,12 +74,12 @@ by the foreground system (e.g., because a “guess” turns out to be mistaken),
 it can then take corrective action by generating an “apology.”</p>
 <div><cite>"Consistency Analysis in Bloom: a CALM and Collected Approach" <sup>[calm]</sup></cite></div></blockquote>
 
-The Discovery Layer starts at <code>HTTP OPTIIONS</code>[rfc2616]: <i>finding 
+The Discovery Layer starts at <code>HTTP OPTIONS</code><sup>[rfc2616]</sup>: <i>finding 
 systematic tasks</i> (again, even though the hypermedia web is a "cognitive-like" 
 possibility space, we do not necessarily have to only take Fodor's model of 
 cognition: instead of methods, we discover "systematic tasks" for integration 
 into our neat little Risk Traits model, which should cover a range of mental 
-models of identity[mmi]).
+models of identity<sup>[mmi]</sup>).
 
 # Metaproblems to sell more problems
 
