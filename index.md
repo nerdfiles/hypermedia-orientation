@@ -5,7 +5,11 @@ title: Hypermedia-orientation and the generic hypertext
 # Brass Syntax
 
 Remember JSX (a cursed abomination from Facebook that exceedingly privileges 
-DX over FX: <i>frontend experience</i>; why restrict ourselves to only humans or "people" as those engaging our tools?)? Well, aside from it being insufferable for CTags users, let's consider an example library that would make trivial the mapping of "syntactic" (lexical; i.e. grammatical) structure (categories?) to our (in)famous URL space:
+DX over FX: <i>frontend experience</i>; why restrict ourselves to only humans 
+or "people" as those engaging our tools?)? Well, aside from it being 
+insufferable for CTags users, let's consider an example library that would 
+make trivial the mapping of "syntactic" (lexical; i.e. grammatical) structure 
+(categories?) to our (in)famous URL space:
 
 ```
   <link rel={vm.lexicalStructure}
@@ -30,11 +34,19 @@ guarantee uniqueness (controllable reduction of collisions).
 
 # Metaproblems to sell more problems
 
-<blockquote><p>The net was then tested for its ability to detect this grammatical structure with strings that were not in the training set. The net correctly predicted what the legal continuations of novel input strings would be in agreement with the grammar.</p>
-<div><cite>Cognition without Classical Architecture. Garson, James.<sup>[cog]</sup></cite></div></blockquote>
+<blockquote><p>The net was then tested for its ability to detect this 
+grammatical structure with strings that were not in the training set. The net 
+correctly predicted what the legal continuations of novel input strings would 
+be in agreement with the grammar.</p>
+<div><cite>Cognition without Classical Architecture. Garson, James.<sup>[cog]</sup>
+</cite></div></blockquote>
 
-These "strings" we are concerned with, as "values" of the <code>[rel]</code>, I have called "non-standard link relations": as a harmonization of François Laruelle's "Non-standard Philosophy" and Alfred Jarry's 'Pataphysics. 
-A scientific formulization of Clinamen, Anomalous, Absolute, Antinomy, Pataphor and Syzygy in terms of mechanism and mechanism-structure which may be realized with in the semiotic space of possibiliity of action.
+These "strings" we are concerned with, as "values" of the <code>[rel]</code>, 
+I have called "non-standard link relations": as a harmonization of François 
+Laruelle's "Non-standard Philosophy" and Alfred Jarry's 'Pataphysics. A 
+scientific formulization of Clinamen, Anomalous, Absolute, Antinomy, Pataphor 
+and Syzygy in terms of mechanism and mechanism-structure which may be realized 
+with in the semiotic space of possibiliity of action.
 
 # Metaproblems to sell more problems
 
@@ -43,13 +55,23 @@ What a deliciously gnarly question:
 "Isn’t there a need for cacheing the results of the various reasoners in a FOL 
 form?"<sup>[syllogism]</sup>
 
-But... "However, ◊◻A→A says that if A is possibly necessary, then A is the case, and this is far from obvious. Why does (B) seem obvious, while one of the things it entails seems not obvious at all? The answer is that there is a dangerous ambiguity in the English interpretation of A→◻◊A."
+But... "However, ◊◻A→A says that if A is possibly necessary, then A is the 
+case, and this is far from obvious. Why does (B) seem obvious, while one of 
+the things it entails seems not obvious at all? The answer is that there is a 
+dangerous ambiguity in the English interpretation of A→◻◊A."
 
-We need to adapt this question to account for the understanding that the English, as much as any other language, involves ambiguity: we cannot just throw FOL into the web space; to adjust:
+We need to adapt this question to account for the understanding that the 
+English, as much as any other language, involves ambiguity: we cannot just 
+throw FOL into the web space; to adjust:
 
-Isn't there a need for cacheing the results of the various reasons in First-order modal Logic (as well as Free Logic, Intuitionistic and other non-classical logics which might include "domain functions," etc. such that assignments are made to each possible world its own domain)?
+Isn't there a need for cacheing the results of the various reasons in 
+First-order modal Logic (as well as Free Logic, Intuitionistic and other 
+non-classical logics which might include "domain functions," etc. such that 
+assignments are made to each possible world its own domain)?
 
-Indeed, the web may never be unified according to facts: there is no ultimate language (François Laruelle). At most, we have correlational matrices from which to model domains in the web's possibility space of action.
+Indeed, the web may never be unified according to facts: there is no ultimate 
+language (François Laruelle). At most, we have correlational matrices from 
+which to model domains in the web's possibility space of action.
 
 # Metaproblems to sell more problems
 
@@ -140,16 +162,20 @@ How can we teach the web to play with itself? To jack off? Even when we're not l
 
 # Thinking Money
 
-All that blather about "money" being "durable," "globally transferrable," "fungible," "store of value"... rubbish!
+All that blather about "money" being "durable," "globally transferrable," 
+"fungible," "store of value"... rubbish!
 
-Money is a nonhuman living hyperobject that preexisted market economy: it must be safe, idempotent, mutable and transclusive.
+Money is a nonhuman living hyperobject that preexisted market economy: it must 
+be safe, idempotent, mutable and transclusive.
 
 # Thinking Money
 
-- Thinking money involves transclusion: insight into the future, what will be bought, how it might feel.
+- Thinking money involves transclusion: insight into the future, what will be 
+  bought, how it might feel.
 - Thinking money involves mutability: it can evolve or not depending on context.
 - Thinking money involves idempotency: money is use in ecology.
-- Thinking money involves safety: we imagine the limits of its effects, and our functional ultimacy.
+- Thinking money involves safety: we imagine the limits of its effects, and  
+  our functional ultimacy.
 
 # Acts and Dramas
 
@@ -175,14 +201,25 @@ Is intelligence in content or in form? Let's keep it hybrid:
 
 # Hypermedia in Nouns and Verbs
 
-We already understand the concept of "action" at the protocol level. We want "action" to live along side the intertextual plane of consistency of the 
-hypertext. Before moving on, a user agent may analyze the given document for clues as to what to do next. At every link relation is a "stored action" (or "potential action") ready to fire. Why should the user agent choose it over some other by a sequential order? In the manner of HTML's norms, whatever `[rel]` chosen conforms to a pre-established harmony, if you will, that says "prefetch" fires before "stylesheet," etc.
+We already understand the concept of "action" at the protocol level. We want "
+action" to live along side the intertextual plane of consistency of the 
+hypertext. Before moving on, a user agent may analyze the given document for 
+clues as to what to do next. At every link relation is a "stored action" (or 
+"potential action") ready to fire. Why should the user agent choose it over 
+some other by a sequential order? In the manner of HTML's norms, whatever 
+`[rel]` chosen conforms to a pre-established harmony, if you will, that says 
+"prefetch" fires before "stylesheet," etc.
 
 # Hypermedia in Nouns and Verbs
 
-However, we want the opportunity to distribute and decentralize the expression of relata-specificity and leave "meaning" to whomever runs the repsonse to the request (expression): it could be one head, or a massively coordinated soup of stars and spokes, everywhere between a completing, concluding, deducing or emerging compute.
+However, we want the opportunity to distribute and decentralize the expression 
+of relata-specificity and leave "meaning" to whomever runs the repsonse to the 
+request (expression): it could be one head, or a massively coordinated soup of 
+stars and spokes, everywhere between a completing, concluding, deducing or 
+emerging compute.
 
-Or, we might say: let's make meaning programmable! Programmable semantics?! Programmable semantic web!!
+Or, we might say: let's make meaning programmable! Programmable semantics?! 
+Programmable semantic web!!
 
 # Think IFTTT for CRISPR
 
@@ -228,10 +265,12 @@ answer pre-formed for us.
 # Understating Hypermedia
 
 <blockquote><p>
-Hypermedia: for REST services, hypermedia helps frontends to be more <i>independent</i> of service endpoints. (my emphasis)
+Hypermedia: for REST services, hypermedia helps frontends to be more 
+<i>independent</i> of service endpoints. (my emphasis)
 </p></blockquote>
 
-Oftentimes hypermedia-orientation is mentioned but not emphasized. What is the most important, operative term here?
+Oftentimes hypermedia-orientation is mentioned but not emphasized. What is the 
+most important, operative term here?
 
 What does <i>independence</i> fundamentally mean?
 
@@ -246,31 +285,66 @@ that is independent of any particular mechanism.</p><div><cite>Philosophy and Si
 
 # Understating Hypermedia
 
-<blockquote><p>Adding to the explanation of emergence a mechanism-independent component will involve introducing entirely new ideas so it will be useful at this point to justify the need for the extra complexity. So far the concept of emergence has played an ontological role, showing why it is legitimate to believe in the existence of objective properties, tendencies, and capacities. But once we add the mechanism-independent component the concept of emergence leads to two important epistemological consequences: it explains why we can use partial models to learn about reality and it provides an account for the capacity of those models to mimic the behavior of the processes they model. The first consequence derives directly from the notion of asymptotic stability. When the emergent properties of a whole are stable they can survive changes in the details of the interactions between its parts.</p><div><cite>Philosophy and Simulation<cite></div></blockquote>
+<blockquote><p>Adding to the explanation of emergence a mechanism-independent 
+component will involve introducing entirely new ideas so it will be useful at 
+this point to justify the need for the extra complexity. So far the concept of 
+emergence has played an ontological role, showing why it is legitimate to 
+believe in the existence of objective properties, tendencies, and capacities. 
+But once we add the mechanism-independent component the concept of emergence 
+leads to two important epistemological consequences: it explains why we can 
+use partial models to learn about reality and it provides an account for the 
+capacity of those models to mimic the behavior of the processes they model. 
+The first consequence derives directly from the notion of asymptotic 
+stability. When the emergent properties of a whole are stable they can survive 
+changes in the details of the interactions between its parts.</p><div>
+<cite>Philosophy and Simulation<cite></div></blockquote>
 
 # Understating Hypermedia
 
-<blockquote><p>Being able to take for granted the existence of emergent properties at one scale in order to explain properties at another scale is arguably a basic requirement for scientific research. If scientists had to build models that captured all scales simultaneously no scientific field would ever have succeeded in explaining anything. We would be trapped in a block universe in which every aspect is inextricably related to every other aspect and our incapacity to separate levels of emergence would leave us cognitively powerless.</p>
-<p>The second epistemological consequence derives from the very notion of mechanism-independence: if processes as different in detail as a convection cell and a chemical clock can exhibit the same behavior perhaps mathematical equations can also display that behavior.</p>
+<blockquote><p>Being able to take for granted the existence of emergent 
+properties at one scale in order to explain properties at another scale is 
+arguably a basic requirement for scientific research. If scientists had to 
+build models that captured all scales simultaneously no scientific field would 
+ever have succeeded in explaining anything. We would be trapped in a block 
+universe in which every aspect is inextricably related to every other aspect 
+and our incapacity to separate levels of emergence would leave us cognitively 
+powerless.</p>
+<p>The second epistemological consequence derives from the very notion of 
+mechanism-independence: if processes as different in detail as a convection 
+cell and a chemical clock can exhibit the same behavior perhaps mathematical 
+equations can also display that behavior.</p>
 <div><cite>Philosophy and Simulation</cite></div></blockquote>
 
 # Understating Hypermedia
 
-<blockquote><p>The mechanism-independent component of an explanation, on the other hand, demands clarifying the status of tendencies and capacities when they are not actually manifested or exercised. We could, of course, characterize that status as that of a possibility but that would be too vague: an unmanifested tendency and an unexercised capacity are not just possible but define a concrete space of possibilities with a definite structure.</p><div><cite>Philosophy and Simulation</cite></div></blockquote>
+<blockquote><p>The mechanism-independent component of an explanation, on the 
+other hand, demands clarifying the status of tendencies and capacities when 
+they are not actually manifested or exercised. We could, of course, 
+characterize that status as that of a possibility but that would be too vague: 
+an unmanifested tendency and an unexercised capacity are not just possible but 
+define a concrete space of possibilities with a definite structure.</p>
+<div><cite>Philosophy and Simulation</cite></div></blockquote>
 
 # Understating Hypermedia
 
 So what's this all about? 
 
-What are some other terms synonymous with "independence" (or, what is actually "mechanism-independent structure")?
+What are some other terms synonymous with "independence" (or, what is actually 
+"mechanism-independent structure")?
 
-In the context of the computational sciences (what was once called merely "Computer Science"): <i>coordination</i>.
+In the context of the computational sciences (what was once called merely 
+"Computer Science"): <i>coordination</i>.
 
 # Understating Hypermedia
 
-<blockquote><p>CALM is a positive result in this arena: it circumscribes the class of programs for which all three of the CAP properties can indeed be achieved simultaneously. [...]</p>
-<p style="text-indent: 1rem;"><span style="text-transform: uppercase;">Observation 1</span>. <i>Coordination-freeness is equivalent to availability under partition.</i></p>
-<p>In the forward direction, a coordination-free program is by definition available under partition: all machines can proceed independently.</p>
+<blockquote><p>CALM is a positive result in this arena: it circumscribes the 
+class of programs for which all three of the CAP properties can indeed be 
+achieved simultaneously. [...]</p>
+<p style="text-indent: 1rem;">
+<span style="text-transform: uppercase;">Observation 1</span>. 
+<i>Coordination-freeness is equivalent to availability under partition.</i></p>
+<p>In the forward direction, a coordination-free program is by definition 
+available under partition: all machines can proceed independently.</p>
 <div><cite></cite></div></blockquote>
 
 # Understating Hypermedia
