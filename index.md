@@ -77,10 +77,12 @@ which to model domains in the web's possibility space of action.
 
 Recall some of the Hard Problem(s) of Computer Science:
 
-1. Naming things
-2. Cache invalidation
-7. Async programming
-3. Off-by-one errors
+```
+    1. Naming things
+    2. Cache invalidation
+    7. Async programming
+    3. Off-by-one errors
+```
 
 Such a question checks every problem, and then some!
 
