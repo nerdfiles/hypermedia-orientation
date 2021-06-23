@@ -1,5 +1,6 @@
 ---
 title: Hypermedia-orientation and the generic hypertext
+![https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png](periodic table of information)
 ---
 
 # Brass Syntax
