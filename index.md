@@ -62,7 +62,8 @@ There is of course a "cache" that resides in various intermediaries: we may
 systematically analyze these strings using "context units" (in much the same 
 way the "Context Object" improved on the Event Loop Design Pattern[co]).
 
-<blockquote><p>Context units store the activation values of all the hidden units at a given time *t* and make these values available as inputs at the subsequence cycle *t* + 1. Since information about the hidden units at *t* is available as an input at *t* + 1, and since these values, in turn affect the values of the hidden units at *t* +2, the context units provide the net with the ability to encode a memory of a whole sequence of inputs.</p></blockquote>
+<blockquote><p>Context units store the activation values of all the hidden units at a given time *t* and make these values available as inputs at the subsequence cycle *t* + 1. Since information about the hidden units at *t* is available as an input at *t* + 1, and since these values, in turn affect the values of the hidden units at *t* +2, the context units provide the net with the ability to encode a memory of a whole sequence of inputs.</p>
+<div><cite>Cognition without Classical Architecture. Garson, James.<sup>[cog]</sup></cite></div></blockquote>
 
 # Metaproblems to sell more problems
 
