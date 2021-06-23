@@ -152,16 +152,22 @@ relations as causal relations</i>).
 ```
     (Web namespace)         https://example.com
                             (see https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology#namespace)
+
     (API namespace)         https://example.com/api
+
     (Security namespace)    https://example.com/auth
+
     (Relational namespace)  https://example.com/api/rels/{entity}
                             e.g., https://example.com/api/rels/street
+
     (REST commandspace)     https://example.com/api/{entities}/:id
                             e.g., https://example.com/api/shoes/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
                             https://example.com/api/{entities}/:id/{value-objects}
                             e.g., https://example.com/api/houses/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/doors
+
     (Action commandspace)   https://example.com/api/{entities}/:id/{NamedAction}
                             e.g., https://example.com/api/entities/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/TradeAction
+
     (ODRL commandspace)     https://example.com/api/{entities}\::id
                             e.g., https://example.com/api/wines:68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
                             https://example.com/api/{entities}/:id\::{NamedAction}
