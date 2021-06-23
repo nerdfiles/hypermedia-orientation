@@ -70,6 +70,13 @@ by the foreground system (e.g., because a “guess” turns out to be mistaken),
 it can then take corrective action by generating an “apology.”</p>
 <div><cite>"Consistency Analysis in Bloom: a CALM and Collected Approach" <sup>[calm]</sup></cite></div></blockquote>
 
+The Discovery Layer starts at <code>HTTP OPTIIONS</code>[rfc2616]: <i>finding 
+systematic tasks</i> (again, even though the hypermedia web is a "cognitive-like" 
+possibility space, we do not necessarily have to only take Fodor's model of 
+cognition: instead of methods, we discover "systematic tasks" for integration 
+into our neat little Risk Traits model, which should cover a range of mental 
+models of identity[mmi]).
+
 # Metaproblems to sell more problems
 
 <blockquote><p>The net was then tested for its ability to detect this 
@@ -467,3 +474,5 @@ automaton using an explicit context-sensitive "language of thought."
 [ld-proof]: https://w3c-ccg.github.io/ld-proofs/#linked-data-proof-overview
 [co]: https://www.dre.vanderbilt.edu/~schmidt/PDF/Context-Object-Pattern.pdf
 [calm]: http://db.cs.berkeley.edu/jmh/calm-cidr-short.pdf
+[rfc2616]: https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.2
+[mmi]: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.md
