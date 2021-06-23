@@ -68,7 +68,7 @@ How to code for dealing with mistakes ("apologies") in interpretations that the 
 <blockquote><p>When the background process detects an inconsistency in the results produced 
 by the foreground system (e.g., because a “guess” turns out to be mistaken), 
 it can then take corrective action by generating an “apology.”</p>
-<div><cite>See [calm]</cite></div></blockquote>
+<div><cite>"Consistency Analysis in Bloom: a CALM and Collected Approach" <sup>[calm]</sup></cite></div></blockquote>
 
 # Metaproblems to sell more problems
 
