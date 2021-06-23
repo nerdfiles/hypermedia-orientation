@@ -54,7 +54,7 @@ mechanism-independent structure, properties, tendency and capacity in
 metacomputational and non-metacomputational procedure.
 
 *Programmable possibility spaces* much? Programmable semioticity? Programmable 
-solidarity? etc.
+solidarity? Productivity? Compositionality? Systematicity? etc.
 
 # Metaproblems to sell more problems
 
