@@ -1,7 +1,7 @@
----
-title: Hypermedia-orientation and the generic hypertext
-![https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png](periodic table of information)
----
+<h1 style="text-align: center;">Hypermedia-orientation and the generic hypertext</h1>
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png" alt="periodic table of information" style="width: 40vw" /></div>
 
 # Brass Syntax
 
