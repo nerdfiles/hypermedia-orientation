@@ -146,9 +146,38 @@ Blockchains are not scale-free because they do not begin from hypermedia-orienta
 Look at a transaction's JSON: do you see any links? No. Hashes. Big deal.
 
 It's got "nested" structure, and even "values": but we need relata-specificity (link 
-relation as relating relation).
+relation as <i>relating relation</i> inasmuch as we consider <i>perceptual 
+relations as causal relations</i>).
 
-http://
+```
+    (Web namespace)         https://example.com
+                            (see https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology#namespace)
+    (API namespace)         https://example.com/api
+    (Security namespace)    https://example.com/auth
+    (Relational namespace)  https://example.com/api/rels/{entity}
+                            e.g., https://example.com/api/rels/street
+    (REST commandspace)     https://example.com/api/{entities}/:id
+                            e.g., https://example.com/api/shoes/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
+                            https://example.com/api/{entities}/:id/{value-objects}
+                            e.g., https://example.com/api/houses/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/doors
+    (Action commandspace)   https://example.com/api/{entities}/:id/{NamedAction}
+                            e.g., https://example.com/api/entities/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/TradeAction
+    (ODRL commandspace)     https://example.com/api/{entities}\::id
+                            e.g., https://example.com/api/wines:68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
+                            https://example.com/api/{entities}/:id\::{NamedAction}
+                            e.g., https://example.com/api/cars/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a:DriveAction
+```
+
+For ODRL validation logic use CASL with Seneca, etc. For the GUID, has the 
+object that is being posted or use REST extended with a queue mechanism for 
+de-duping and use the sequence ID as the input for the hash, place in a DHT 
+for processing by the peer network depending on the type of resource that it
+presupposes: mining, agriculture, manufacturing and construction resources will 
+require a certain number of nodes to generating a sufficient number of 
+confirmations to determine its ontological integrity in order to counter 
+*fragmentation*. How do we deal with change ossification in networked resource 
+substrates (whatever is subtending the afforded capabilities across the 
+commandspace)?
 
 # LINKS
 
