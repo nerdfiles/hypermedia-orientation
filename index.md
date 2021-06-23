@@ -47,9 +47,9 @@ But... "However, ◊◻A→A says that if A is possibly necessary, then A is the
 
 We need to adapt this question to account for the understanding that the English, as much as any other language, involves ambiguity: we cannot just throw FOL into the web space; to adjust:
 
-Isn't there a need for cacheing the results of the various reasons in First-order modal Logic (as well as Free Logic, Intuitionistic and other non-classical logics which might include "domain functions," etc. such that assignments are made to each possible world its own domain)?
+Isn't there a need for cacheing the results of the various reasons in First-order modal Logic (FOML; as well as Free Logic, Intuitionistic and other non-classical logics which might include "domain functions," etc. such that assignments are made to each possible world its own domain)?
 
-Indeed, the web may never be unified according to facts: there is no ultimate language (François Laruelle). At most, we have correlational matrices from which to model domains in the web's possibility space of action.
+Indeed, the semantic web may never be unified according to facts: there is no ultimate language (Principles of Non-philosophy. François Laruelle). At most, we have correlational matrices from which to model domains (functionality) in the web's possibility space of action (see DeLanda).
 
 # Metaproblems to sell more problems
 
@@ -66,13 +66,13 @@ Such a question checks every problem, and then some!
 
 Isn't ANSI C interpreted, anyway? But truly, we have serious objectives:
 
-1. "The Need for Speed, 23 Years Later"[ns]  
+1. "The Need for Speed, 23 Years Later"<sup>[ns]</sup>
    "Delays of just 1 second are enough to interrupt a person’s conscious 
-   thought process"
+   thought process"  
 2. Shouldn't the cached results of reasons be navigable, transclusive, safe, 
-   (im)mutable and still idempotent?
-3. Potentiation: link relations provide the conditions for the possibility of 
-   superpositional acquaintance with data.
+   (im)mutable and still idempotent?  
+3. Potentiation: link relations provide the conditions for the possibility of  
+   superpositional acquaintance with data.  
 4. Interplanetary REST: some form of Creative Intelligence must be 
    demonstrated before interplanetary communicational texture is realized, as 
    web navigability, tranclusion, (im)mutability, safety and idempotence 
@@ -81,7 +81,7 @@ Isn't ANSI C interpreted, anyway? But truly, we have serious objectives:
    "understanding" to recognition, from "composition" to (mereological) 
    complexity, from "inference" to causality). 
 
-Our goal is to exploit the conditions for the possibility of attention as a 
+Our goal is to exploit the conditions for the possibility of attention (filter, neurological, spotlight, premotor) as a 
 metaphorical construct, as much as metonymical, synechdocical and ironic 
 constructs are realized from the nature of the inherent metaphorical nature of 
 attention: as a spotlight, under certain mechanism-dependent structure, and as 
