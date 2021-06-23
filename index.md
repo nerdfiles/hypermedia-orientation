@@ -59,6 +59,17 @@ There is of course a "cache" that resides in various intermediaries: we may
 systematically analyze these strings using "context units" (in much the same 
 way the "Context Object" improved on the Event Loop Design Pattern[co]).
 
+<blockquote><p>Context units store the activation values of all the hidden units at a given time *t* and make these values available as inputs at the subsequence cycle *t* + 1. Since information about the hidden units at *t* is available as an input at *t* + 1, and since these values, in turn affect the values of the hidden units at *t* +2, the context units provide the net with the ability to encode a memory of a whole sequence of inputs.</p></blockquote>
+
+# Metaproblems to sell more problems
+
+How to code for dealing with mistakes ("apologies") in interpretations that the net gives?
+
+<blockquote><p>When the background process detects an inconsistency in the results produced 
+by the foreground system (e.g., because a “guess” turns out to be mistaken), 
+it can then take corrective action by generating an “apology.”</p>
+<div><cite>See [calm]</cite></div></blockquote>
+
 # Metaproblems to sell more problems
 
 <blockquote><p>The net was then tested for its ability to detect this 
@@ -455,3 +466,4 @@ automaton using an explicit context-sensitive "language of thought."
 [cog]: https://www.researchgate.net/publication/226508713_Cognition_without_classical_architecture
 [ld-proof]: https://w3c-ccg.github.io/ld-proofs/#linked-data-proof-overview
 [co]: https://www.dre.vanderbilt.edu/~schmidt/PDF/Context-Object-Pattern.pdf
+[calm]: http://db.cs.berkeley.edu/jmh/calm-cidr-short.pdf
