@@ -150,34 +150,34 @@ relation as <i>relating relation</i> inasmuch as we consider <i>perceptual
 relations as causal relations</i>).
 
 ```
-    (Web namespace)         https://example.com
-                            (see https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology#namespace)
+(Web namespace)         https://example.com
+                        (see https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology#namespace)
 
-    (Security namespace)    https://example.com/auth
-                            https://example.com/token
-                            https://example.com/refresh
-                            etc.
+(Security namespace)    https://example.com/auth
+                        https://example.com/token
+                        https://example.com/refresh
+                        etc.
 
-    (API namespace)         https://example.com/api
+(API namespace)         https://example.com/api
 
-    (Relational namespace)  https://example.com/api/rels/{entity}
-                            e.g., https://example.com/api/rels/street
-                            https://example.com/relation/{named-relation}
-                            e.g., [rel]="start https://example.com/relation/inside" [href]="https://example.com/" 
-                            (see https://httpwg.org/specs/rfc8288.html; i.e., *predictive relating relation*)
+(Relational namespace)  https://example.com/api/rels/{entity}
+                        e.g., https://example.com/api/rels/street
+                        https://example.com/relation/{named-relation}
+                        e.g., [rel]="start https://example.com/relation/inside" [href]="https://example.com/" 
+                        (see https://httpwg.org/specs/rfc8288.html; i.e., *predictive relating relation*)
 
-    (REST commandspace)     https://example.com/api/{entities}/:id
-                            e.g., https://example.com/api/shoes/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
-                            https://example.com/api/{entities}/:id/{value-objects}
-                            e.g., https://example.com/api/houses/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/doors
+(REST commandspace)     https://example.com/api/{entities}/:id
+                        e.g., https://example.com/api/shoes/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
+                        https://example.com/api/{entities}/:id/{value-objects}
+                        e.g., https://example.com/api/houses/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/doors
 
-    (Action commandspace)   https://example.com/api/{entities}/:id/{NamedAction}
-                            e.g., https://example.com/api/entities/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/TradeAction
+(Action commandspace)   https://example.com/api/{entities}/:id/{NamedAction}
+                        e.g., https://example.com/api/entities/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a/TradeAction
 
-    (ODRL commandspace)     https://example.com/api/{entities}\::id
-                            e.g., https://example.com/api/wines:68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
-                            https://example.com/api/{entities}/:id\::{NamedAction}
-                            e.g., https://example.com/api/cars/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a:DriveAction
+(ODRL commandspace)     https://example.com/api/{entities}\::id
+                        e.g., https://example.com/api/wines:68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
+                        https://example.com/api/{entities}/:id\::{NamedAction}
+                        e.g., https://example.com/api/cars/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a:DriveAction
 ```
 
 For ODRL validation logic use CASL with Seneca, etc. For the GUID, has the 
