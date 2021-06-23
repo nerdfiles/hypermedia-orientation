@@ -205,6 +205,8 @@ relations as causal relations</i>).
 (Web namespace)         https://example.com
                         (see https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology#namespace)
 
+                        https://example.com/{urland}
+
 (Security namespace)    https://example.com/auth
                         https://example.com/token
                         https://example.com/refresh
