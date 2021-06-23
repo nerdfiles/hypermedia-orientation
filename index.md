@@ -53,6 +53,9 @@ pre-configuration, pre-organizational structure immanent to mechanism and
 mechanism-independent structure, properties, tendency and capacity in 
 metacomputational and non-metacomputational procedure.
 
+*Programmable possibility spaces* much? Programmable semioticity? Programmable 
+solidarity? etc.
+
 # Metaproblems to sell more problems
 
 There is of course a "cache" that resides in various intermediaries: we may 
