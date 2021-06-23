@@ -124,6 +124,8 @@ Look at a transaction's JSON: do you see any links? No. Hashes. Big deal.
 It's got "nested" structure, and even "values": but we need relata-specificity (link 
 relation as relating relation).
 
+http://
+
 # LINKS
 
 The web is about LINKS! A network's becoming scale-free consists in links being 
