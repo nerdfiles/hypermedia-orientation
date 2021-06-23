@@ -153,12 +153,18 @@ relations as causal relations</i>).
     (Web namespace)         https://example.com
                             (see https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology#namespace)
 
-    (API namespace)         https://example.com/api
-
     (Security namespace)    https://example.com/auth
+                            https://example.com/token
+                            https://example.com/refresh
+                            etc.
+
+    (API namespace)         https://example.com/api
 
     (Relational namespace)  https://example.com/api/rels/{entity}
                             e.g., https://example.com/api/rels/street
+                            https://example.com/relation/{named-relation}
+                            e.g., [rel]="start https://example.com/relation/inside" [href]="https://example.com/" 
+                            (see https://httpwg.org/specs/rfc8288.html; i.e., *predictive relating relation*)
 
     (REST commandspace)     https://example.com/api/{entities}/:id
                             e.g., https://example.com/api/shoes/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a
