@@ -524,7 +524,34 @@ front door. Even Game-B may be for naught.
 
 # Hypermediating Implements
 
-...
+Bear with me... Events take on the modes of functional genericity, continuity, differentiality and dialecticality. Names take on modes of content.
+
+```
+[eventspace]
+
+		creation ----------------------- formation
+		|                                        |
+		|      p7l ------- m5g ------ c6l        |
+		|          \    /       \     /          |
+		|           \  /         \   /           |
+		|          information flows down        | (downwards causal emergence)
+		|            /\  | a5s |   \             |
+		|           / events flow up\            | (upwards causal emergence)
+		|          /    \        /   \           |
+		|         /      \      /     \          |
+		|      d14n ------ d6c ------ a11y       |
+		|                                        |
+		| [namespace]                            |
+		adjustment ----------------------- process 
+
+m5g: meaning (learning; HEXACO???)
+d14n: decentralization (architecture; componetexture??? IDEALS)
+a11y: accessibility (accessibility *is* privacy and security; POUR)
+d6c: didactic (training)
+c6l: clerical (efficiency)
+a5s: amorous (agility)
+p7l: political (equity)
+```
 
 1. Try https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
 2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
