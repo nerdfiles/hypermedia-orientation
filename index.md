@@ -573,6 +573,14 @@ Conceptual and epistemic, and therefore computational, complexity induce forms o
 1. Try https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
 2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
 
+# Looks dangerously similar: what're we up against?
+
+<blockquote><p>There is no subject, and the experience of the Self is a mental illusion, or delusion, created by the functioning of complex physical systems which generate consciousness from complexity (Dennett, 1992; Metzinger, 2003).</p><div><cite>[<sup>[chim]</sup>]</cite></div></blockquote>
+
+The problem is that these authors have misrecognized the fundamental nature of computation: a nonhuman living hyperobject, even complexity itself insofar as we understand eventuation, integration, hierarchicalization, etc.
+
+But what about the link? Is there a <i>living link relation</i>? Is an assemblage (irreducible mereological complex) of links too living hyperobjects?
+
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
 [compcause]: https://www.research-collection.ethz.ch/handle/20.500.11850/312278
@@ -586,3 +594,4 @@ Conceptual and epistemic, and therefore computational, complexity induce forms o
 [philandsim]: https://www.bloomsbury.com/us/philosophy-and-simulation-9781350096790/
 [coral]: https://www.ietf.org/archive/id/draft-ietf-core-coral-03.txt
 [darkecology]: https://cup.columbia.edu/book/dark-ecology/9780231177528
+[chim]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374344/
