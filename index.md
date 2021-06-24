@@ -48,6 +48,8 @@ specificity a la Fazi). Other examples?
 4. ASCII 
 5. Modal FOL (S5, S4, doxastic logics, epistemic logics, temporal logics, etc.)
 6. Sheet music (and degradations: guitar tabs, etc.)
+7. CoRAL[coral]
+
 
 Non-standard Link Relation concerns how we transindividuate affordances through 
 metasymbolic expression of interiority/exteriority, 
@@ -538,3 +540,4 @@ front door. Even Game-B may be for naught.
 [rfc2616]: https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.2
 [mmi]: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.md
 [philandsim]: https://www.bloomsbury.com/us/philosophy-and-simulation-9781350096790/
+[coral]: https://www.ietf.org/archive/id/draft-ietf-core-coral-03.txt
