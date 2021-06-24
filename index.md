@@ -485,29 +485,48 @@ personae, etc.) of the base structure.
 
 ```
 -------------------
-metonymical       | copyrighting land as art
+metonymical       | copyrighting [ subjecthood | matter/material | algorithm | land ] as art
 -------------------
-metaphorical
+metaphorical      | fMRI, cognitive style, cognitive signature, etc. (mind is 
+                    computer; and other attentional-attitudinal-cognitive conduit metaphors)
 -------------------
-synechdochical
+synechdochical    | time is money (how does money, the nonhuman living 
+                    hyperobject, deceive us into developing capitalism for its 
+                    ontological enrichment, such that we effectively copyright time 
+                    as private property)
 -------------------
-ironical
+ironical          | copyrighting [ handwriting ] as art
 -------------------
-pataphorical
+pataphorical      |
 -------------------
-syzygetical
+syzygetical       |
 -------------------
-anomalitical
+anomalitical      |
 -------------------
-antinomical
+antinomical       |
 -------------------
-absolutic
+absolutic         |
 -------------------
-clinametical
+clinametical      |
 -------------------
 ```
 
----
+# Transcendental Gams, Nomic, Latin Squares, Logic Alphabet, etc. and the Agrilogistic Axiology
+
+So what's the upshot of all this? It is our infinite task to turn civilization 
+from dogmatic agrilogistic science given to us by Aristotle. We must not allow 
+for river ponds and verdant greens be replaced by shopping malls and 
+blockchains. Capitalism is nothing but the upshot of money afforded an 
+agrilogistic science. There's little we can do about it barging through the 
+front door. Even Game-B may be for naught.
+
+# Hypermediating Implements
+
+...
+
+1. Try https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
+2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
+
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
 [compcause]: https://www.research-collection.ethz.ch/handle/20.500.11850/312278
