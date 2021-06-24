@@ -515,7 +515,7 @@ clinametical      |
 -------------------
 ```
 
-# Transcendental Gams, Nomic, Latin Squares, Logic Alphabet, etc. and the Agrilogistic Axiology
+# Transcendental Games, Nomic, Latin Squares, Logic Alphabet, etc. and the Agrilogistic Axiology
 
 So what's the upshot of all this? It is our infinite task to turn civilization 
 from dogmatic agrilogistic science given to us by Aristotle. We must not allow 
@@ -523,6 +523,11 @@ for river ponds and verdant greens be replaced by shopping malls and
 blockchains. Capitalism is nothing but the upshot of money afforded an 
 agrilogistic science. There's little we can do about it barging through the 
 front door. Even Game-B may be for naught.
+
+# Agrilogistics is Easy Think Substance
+
+<blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all depres- sion temporality, a sad rigid thin gray tube. We are living inside depression objectified in built space. It’s in the way gigantic fields of rapeseed extend everywhere. It’s in the way huge lonely front lawns extend a meaningless one-size-fits-all statement about individual- ity. It’s in the way malls have gigantic parking lots, and housing lots have giant McMansions without so much as a garden. With its tiny temporality window, agrilogistic depression has turned the surface of Earth into a fatal place. Not only the land but also the oceans, which are the unconscious of the built space, the toilet where the chemicals go. As we have seen, there is a simple Freudian term for a fatal com- pulsion that keeps on retweeting: <i>death drive</i>.</p>
+<div><cite>Dark Ecology</cite></div></blockquote>
 
 # Hypermediating Implements
 
