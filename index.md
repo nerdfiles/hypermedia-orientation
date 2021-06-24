@@ -5,6 +5,7 @@
      alt="periodic table of information" 
      style="width: 40vw" /></div>
 <div>nerdfiles at gmail dot com</div>
+<div><a href="https://github.com/nerdfiles/hypermedia-orientation">repo</a></div>
 
 # Brass Syntax
 
