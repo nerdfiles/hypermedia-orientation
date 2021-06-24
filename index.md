@@ -51,6 +51,7 @@ specificity a la Fazi). Other examples?
 5. Modal FOL (S5, S4, doxastic logics, epistemic logics, temporal logics, etc.)
 6. Sheet music (and degradations: guitar tabs, etc.)
 7. CoRAL[coral]
+8. SDRSes, DeLandan simulational languages, etc.
 
 
 Non-standard Link Relation concerns how we transindividuate affordances through 
