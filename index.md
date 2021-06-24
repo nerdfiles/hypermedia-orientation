@@ -581,6 +581,10 @@ The problem is that these authors have misrecognized the fundamental nature of c
 
 But what about the link? Is there a <i>living link relation</i>? Is an assemblage (irreducible mereological complex) of links too living hyperobjects?
 
+# Forget Game Theory
+
+John Nash Jr. compares "water" to "money": this is an agrilogistic trick. Don't fall for it! Avert agrilogistic substitution!
+
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
 [compcause]: https://www.research-collection.ethz.ch/handle/20.500.11850/312278
