@@ -555,6 +555,16 @@ a5s: amorous (agility)
 p7l: political (equity)
 ```
 
+# Hypermediating Implements
+
+Conceptual and epistemic, and therefore computational, complexity induce forms of emergence  ...
+
+<blockquote><p>If we accept that computation is a method of abstraction, and that aesthetics is a theory of experience, then the aesthetic investigation of computation invites us to question the relation between what is abstracted and what is experienceable.</p>
+<div><cite>Beatrice M Fazi</cite></div></blockquote>
+
+<blockquote><p>Can the notion of emergence help us to induce, rather than deduce, inferences, decisions, and instructions in computation?</p>
+<div><cite>Contingent Computation. pg. 161. Beatrice M Fazi.</cite></div></blockquote>
+
 1. Try https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
 2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
 
