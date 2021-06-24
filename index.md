@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png" 
      alt="periodic table of information" 
      style="width: 40vw" /></div>
+<div>nerdfiles at gmail dot com</div>
 
 # Brass Syntax
 
