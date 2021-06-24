@@ -583,7 +583,25 @@ But what about the link? Is there a <i>living link relation</i>? Is an assemblag
 
 # Forget Game Theory
 
-John Nash Jr. compares "water" to "money": this is an agrilogistic trick. Don't fall for it! Avert agrilogistic substitution!
+John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
+Don't fall for it! Avert agrilogistic substitution!
+
+```
+Nash        Asymptotic/Ideal Money, etc.
+Nakamoto    Hyperbitcoinization
+Orlean      (sacred totemic mediator of value)
+Morton      (nonhuman living hyperobject which subscends its parts: money operates 
+            through capital; but money acts as dollars, cash, etc. like 
+            thoughts to words — words behave as if, desire that, etc., 
+            strategies to plays, plays take on the role and control variation 
+            on theme and initiative)
+Klossowski  (value is materialized living relation of voluptuous (e)motion)
+```
+
+Everything's gotta eat, even money: you are what you eat.
+
+Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather 
+*agrilogistic*, eco-gnostic-averse.
 
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
