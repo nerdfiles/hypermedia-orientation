@@ -4,6 +4,8 @@
 <img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/periodic-table-of-information.png" 
      alt="periodic table of information" 
      style="width: 40vw" /></div>
+<div>nerdfiles at gmail dot com</div>
+<div><a href="https://github.com/nerdfiles/hypermedia-orientation">repo</a></div>
 
 # Brass Syntax
 
@@ -478,7 +480,7 @@ automaton using an explicit context-sensitive "language of thought."
 possible to cast toward specificity. But what interests us here is the act of 
 upcasting or casting "upward" toward the generic supernature.</p></blockquote>
 
-Subscendence: A whole (superstructure) subscends its parts (acts, enactments, 
+Subscendence<sup>[[darkecology]]</sup>: A whole (superstructure) subscends its parts (acts, enactments, 
 personae, etc.) of the base structure.
 
 <blockquote><p>A whole is <i>subcended</i> by its parts.</p></blockquote>
@@ -487,29 +489,120 @@ personae, etc.) of the base structure.
 
 ```
 -------------------
-metonymical       | copyrighting land as art
+metonymical       | copyrighting [ subjecthood | matter/material | algorithm | land ] as art
 -------------------
-metaphorical
+metaphorical      | fMRI, cognitive style, cognitive signature, etc. (mind is 
+                    computer; and other attentional-attitudinal-cognitive conduit metaphors)
 -------------------
-synechdochical
+synechdochical    | time is money (how does money, the nonhuman living 
+                    hyperobject, deceive us into developing capitalism for its 
+                    ontological enrichment, such that we effectively copyright time 
+                    as private property)
 -------------------
-ironical
+ironical          | copyrighting [ handwriting ] as art
 -------------------
-pataphorical
+pataphorical      |
 -------------------
-syzygetical
+syzygetical       |
 -------------------
-anomalitical
+anomalitical      |
 -------------------
-antinomical
+antinomical       |
 -------------------
-absolutic
+absolutic         |
 -------------------
-clinametical
+clinametical      |
 -------------------
 ```
 
----
+# Transcendental Games, Nomic, Latin Squares, Logic Alphabet, etc. and the Agrilogistic Axiology
+
+So what's the upshot of all this? It is our infinite task to turn civilization 
+from dogmatic agrilogistic science given to us by Aristotle. We must not allow 
+for river ponds and verdant greens be replaced by shopping malls and 
+blockchains. Capitalism is nothing but the upshot of money afforded an 
+agrilogistic science. There's little we can do about it barging through the 
+front door. Even Game-B may be for naught.
+
+# Agrilogistics is Easy Think Substance
+
+<blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all depres- sion temporality, a sad rigid thin gray tube. We are living inside depression objectified in built space. It’s in the way gigantic fields of rapeseed extend everywhere. It’s in the way huge lonely front lawns extend a meaningless one-size-fits-all statement about individual- ity. It’s in the way malls have gigantic parking lots, and housing lots have giant McMansions without so much as a garden. With its tiny temporality window, agrilogistic depression has turned the surface of Earth into a fatal place. Not only the land but also the oceans, which are the unconscious of the built space, the toilet where the chemicals go. As we have seen, there is a simple Freudian term for a fatal com- pulsion that keeps on retweeting: <i>death drive</i>.</p>
+<div><cite>Dark Ecology</cite></div></blockquote>
+
+# Hypermediating Implements
+
+Bear with me... Events take on the modes of functional genericity, continuity, differentiality and dialecticality. Names take on modes of content.
+
+```
+[eventspace]
+
+		creation ----------------------- formation
+		|                                        |
+		|      p7l ------- m5g ------ c6l        |
+		|          \    /       \     /          |
+		|           \  /         \   /           |
+		|          information flows down        | (downwards causal emergence)
+		|            /\  | a5s |   \             |
+		|           / events flow up\            | (upwards causal emergence)
+		|          /    \        /   \           |
+		|         /      \      /     \          |
+		|      d14n ------ d6c ------ a11y       |
+		|                                        |
+		| [namespace]                            |
+		adjustment ----------------------- process 
+
+m5g: meaning (learning; HEXACO???)
+d14n: decentralization (architecture; componetexture??? IDEALS)
+a11y: accessibility (accessibility *is* privacy and security; POUR)
+d6c: didactic (training)
+c6l: clerical (efficiency)
+a5s: amorous (agility)
+p7l: political (equity)
+```
+
+# Hypermediating Implements
+
+Conceptual and epistemic, and therefore computational, complexity induce forms of emergence  ...
+
+<blockquote><p>If we accept that computation is a method of abstraction, and that aesthetics is a theory of experience, then the aesthetic investigation of computation invites us to question the relation between what is abstracted and what is experienceable.</p>
+<div><cite>Beatrice M Fazi</cite></div></blockquote>
+
+<blockquote><p>Can the notion of emergence help us to induce, rather than deduce, inferences, decisions, and instructions in computation?</p>
+<div><cite>Contingent Computation. pg. 161. Beatrice M Fazi.</cite></div></blockquote>
+
+1. Try https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
+2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
+
+# Looks dangerously similar: what're we up against?
+
+<blockquote><p>There is no subject, and the experience of the Self is a mental illusion, or delusion, created by the functioning of complex physical systems which generate consciousness from complexity (Dennett, 1992; Metzinger, 2003).</p><div><cite>[<sup>[chim]</sup>]</cite></div></blockquote>
+
+The problem is that these authors have misrecognized the fundamental nature of computation: a nonhuman living hyperobject, even complexity itself insofar as we understand eventuation, integration, hierarchicalization, etc.
+
+But what about the link? Is there a <i>living link relation</i>? Is an assemblage (irreducible mereological complex) of links too living hyperobjects?
+
+# Forget Game Theory
+
+John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
+Don't fall for it! Avert agrilogistic substitution!
+
+```
+Nash        Asymptotic/Ideal Money, etc.
+Nakamoto    Hyperbitcoinization
+Orlean      (sacred totemic mediator of value)
+Morton      (nonhuman living hyperobject which subscends its parts: money operates 
+            through capital; but money acts as dollars, cash, etc. like 
+            thoughts to words — words behave as if, desire that, etc., 
+            strategies to plays, plays take on the role and control variation 
+            on theme and initiative)
+Klossowski  (value is materialized living relation of voluptuous (e)motion)
+```
+
+Everything's gotta eat, even money: you are what you eat.
+
+Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather 
+*agrilogistic*, eco-gnostic-averse.
+
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
 [compcause]: https://www.research-collection.ethz.ch/handle/20.500.11850/312278
@@ -522,3 +615,5 @@ clinametical
 [mmi]: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.md
 [philandsim]: https://www.bloomsbury.com/us/philosophy-and-simulation-9781350096790/
 [coral]: https://www.ietf.org/archive/id/draft-ietf-core-coral-03.txt
+[darkecology]: https://cup.columbia.edu/book/dark-ecology/9780231177528
+[chim]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374344/
