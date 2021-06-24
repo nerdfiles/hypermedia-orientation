@@ -480,7 +480,7 @@ automaton using an explicit context-sensitive "language of thought."
 possible to cast toward specificity. But what interests us here is the act of 
 upcasting or casting "upward" toward the generic supernature.</p></blockquote>
 
-Subscendence: A whole (superstructure) subscends its parts (acts, enactments, 
+Subscendence[<sup>[darkecology]</sup>]: A whole (superstructure) subscends its parts (acts, enactments, 
 personae, etc.) of the base structure.
 
 <blockquote><p>A whole is <i>subcended</i> by its parts.</p></blockquote>
@@ -570,3 +570,4 @@ p7l: political (equity)
 [mmi]: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.md
 [philandsim]: https://www.bloomsbury.com/us/philosophy-and-simulation-9781350096790/
 [coral]: https://www.ietf.org/archive/id/draft-ietf-core-coral-03.txt
+[darkecology]: https://cup.columbia.edu/book/dark-ecology/9780231177528
