@@ -434,7 +434,7 @@ What are some other terms synonymous with "independence" (or, what is actually
 "mechanism-independent structure")?
 
 In the context of the computational sciences (what was once called merely 
-"Computer Science"): <i>coordination</i>.
+"Computer Science"): <i>coordination-free</i>.
 
 # Understating Hypermedia
 
