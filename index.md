@@ -515,7 +515,7 @@ clinametical      |
 -------------------
 ```
 
-# Transcendental Games, Nomic, Latin Squares, Logic Alphabet, etc. and the Agrilogistic Axiology
+# Transcendental Games, Nomic, Latin Octonions, Metalogic Alphabet, etc. and the Agrilogistic Axiology
 
 So what's the upshot of all this? It is our infinite task to turn civilization 
 from dogmatic agrilogistic science given to us by Aristotle. We must not allow 
