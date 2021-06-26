@@ -53,6 +53,7 @@ specificity a la Fazi). Other examples?
 7. CoRAL[coral]
 8. SDRSes, DeLandan simulational languages, etc.
 
+These languages can be interpretted in a non-denumerable many ways. So the context-freeness has to be given anywhere markup potentially tends away from the event of its decision bound to interactive exteriority conditioning the possibility for its emergence.
 
 Non-standard Link Relation concerns how we transindividuate affordances through 
 metasymbolic expression of interiority/exteriority, 
@@ -162,7 +163,8 @@ Isn't ANSI C interpreted, anyway? But truly, we have serious objectives:
    "understanding" to recognition, from "composition" to (mereological) 
    complexity, from "inference" to causality). 
 
-Our goal is to exploit the conditions for the possibility of attention (filter, neurological, spotlight, premotor) as a 
+Our goal is to exploit the conditions for the possibility of attention (filter, 
+neurological, spotlight, premotor) as a 
 metaphorical construct, as much as metonymical, synechdocical and ironic 
 constructs are realized from the nature of the inherent metaphorical nature of 
 attention: as a spotlight, under certain mechanism-dependent structure, and as 
@@ -527,7 +529,7 @@ front door. Even Game-B may be for naught.
 
 # Agrilogistics is Easy Think Substance
 
-<blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all depres- sion temporality, a sad rigid thin gray tube. We are living inside depression objectified in built space. It’s in the way gigantic fields of rapeseed extend everywhere. It’s in the way huge lonely front lawns extend a meaningless one-size-fits-all statement about individual- ity. It’s in the way malls have gigantic parking lots, and housing lots have giant McMansions without so much as a garden. With its tiny temporality window, agrilogistic depression has turned the surface of Earth into a fatal place. Not only the land but also the oceans, which are the unconscious of the built space, the toilet where the chemicals go. As we have seen, there is a simple Freudian term for a fatal com- pulsion that keeps on retweeting: <i>death drive</i>.</p>
+<blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all depression temporality, a sad rigid thin gray tube. We are living inside depression objectified in built space. It’s in the way gigantic fields of rapeseed extend everywhere. It’s in the way huge lonely front lawns extend a meaningless one-size-fits-all statement about individuality. It’s in the way malls have gigantic parking lots, and housing lots have giant McMansions without so much as a garden. With its tiny temporality window, agrilogistic depression has turned the surface of Earth into a fatal place. Not only the land but also the oceans, which are the unconscious of the built space, the toilet where the chemicals go. As we have seen, there is a simple Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i>.</p>
 <div><cite>Dark Ecology</cite></div></blockquote>
 
 # Hypermediating Implements
