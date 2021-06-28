@@ -1,0 +1,20 @@
+{
+  "name": "hypermedia-orientation",
+  "version": "1.0.0",
+  "description": "A presentation that elaborates the integration of mechanism and  mechanism-independent structures of cyberspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdfiles/hypermedia-orientation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerdfiles/hypermedia-orientation/issues"
+  },
+  "homepage": "https://github.com/nerdfiles/hypermedia-orientation#readme"
+}
