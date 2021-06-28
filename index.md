@@ -529,12 +529,23 @@ front door. Even Game-B may be for naught.
 
 # Agrilogistics is Easy Think Substance
 
-<blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all depression temporality, a sad rigid thin gray tube. We are living inside depression objectified in built space. It’s in the way gigantic fields of rapeseed extend everywhere. It’s in the way huge lonely front lawns extend a meaningless one-size-fits-all statement about individuality. It’s in the way malls have gigantic parking lots, and housing lots have giant McMansions without so much as a garden. With its tiny temporality window, agrilogistic depression has turned the surface of Earth into a fatal place. Not only the land but also the oceans, which are the unconscious of the built space, the toilet where the chemicals go. As we have seen, there is a simple Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i>.</p>
+<blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all 
+depression temporality, a sad rigid thin gray tube. We are living inside 
+depression objectified in built space. It’s in the way gigantic fields of 
+rapeseed extend everywhere. It’s in the way huge lonely front lawns extend a 
+meaningless one-size-fits-all statement about individuality. It’s in the way 
+malls have gigantic parking lots, and housing lots have giant McMansions 
+without so much as a garden. With its tiny temporality window, agrilogistic 
+depression has turned the surface of Earth into a fatal place. 
+Not only the land but also the oceans, which are the unconscious of the built 
+space, the toilet where the chemicals go. As we have seen, there is a simple 
+Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i>.</p>
 <div><cite>Dark Ecology</cite></div></blockquote>
 
 # Hypermediating Implements
 
-Bear with me... Events take on the modes of functional genericity, continuity, differentiality and dialecticality. Names take on modes of content.
+Bear with me... Events take on the modes of functional genericity, continuity, 
+differentiality and dialecticality. Names take on modes of content.
 
 ```
 [eventspace]
@@ -605,6 +616,18 @@ Everything's gotta eat, even money: you are what you eat.
 
 Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather 
 *agrilogistic*, eco-gnostic-averse.
+
+# Forgiving Semiotic Dynamics
+
+<blockquote><p>In semiotic dynamics, for example, the original plurality of idiosyncratic vocabularies is slowly narrowed down to a single shared lexicon by the tendency of agents to choose symbolic artifacts according to how referentially successful they have been in the past. And similarly for the simulation of label concatenation as a means to express causality: every generation has a tendency to start with those monolithic sentences that were more predictive of the real link between moon phase and tide state, and this acts a bottleneck facilitating the passage of some but not other artifacts to the next generation.</p>
+<div><cite>DeLanda, Manuel. Philosophy and Simulation. pg. 158.</cite></div></blockquote>
+
+# Forgiving Semiotic Dynamics
+
+Authorship of non-standard link relation is to express metanorms in the lingua franca of web.
+
+<blockquote><p>Once metanorms had become part of the cultural content that was transmitted from one generation to the next their use could have been extended to patterns of behavior that distinguished one com­ munity from another. In other words, metanorms could have become a mechanism not only for the emergence of solidarity and a sense of communal identity but also for the enforcement of behavioral patterns that were unique to a community and consolidated that identity.</p>
+<div><cite>DeLanda, Manuel. Philosophy and Simulation.</cite></div></blockquote>
 
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
 [ns]: https://www.nngroup.com/articles/the-need-for-speed/
