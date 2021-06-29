@@ -8,3 +8,7 @@ const app = () =>
   });
 
 module.exports = app;
+
+// for (let c in express()) {
+//   c.listen(() => {});
+// }
