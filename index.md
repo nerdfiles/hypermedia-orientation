@@ -545,7 +545,7 @@ Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i
 # Hypermediating Implements
 
 Bear with me... Events take on the modes of functional genericity, continuity, 
-differentiality and dialecticality. Names take on modes of content.
+differentiality and dialecticality (dialecticity?). Names take on modes of content.
 
 ```
 [eventspace]
@@ -584,7 +584,7 @@ Conceptual and epistemic, and therefore computational, complexity induce forms o
 <blockquote><p>Can the notion of emergence help us to induce, rather than deduce, inferences, decisions, and instructions in computation?</p>
 <div><cite>Contingent Computation. pg. 161. Beatrice M Fazi.</cite></div></blockquote>
 
-1. Try https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
+1. Try proofgramming[proofgramming] 
 2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
 
 # Looks dangerously similar: what're we up against?
@@ -643,3 +643,4 @@ Authorship of non-standard link relation is to express metanorms in the lingua f
 [coral]: https://www.ietf.org/archive/id/draft-ietf-core-coral-03.txt
 [darkecology]: https://cup.columbia.edu/book/dark-ecology/9780231177528
 [chim]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374344/
+[proofgramming]: https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
