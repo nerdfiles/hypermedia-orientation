@@ -4,7 +4,6 @@
   "description": "A presentation that elaborates the integration of mechanism and  mechanism-independent structures of cyberspace.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

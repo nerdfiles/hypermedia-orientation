@@ -610,6 +610,12 @@ Morton      (nonhuman living hyperobject which subscends its parts: money operat
             strategies to plays, plays take on the role and control variation 
             on theme and initiative)
 Klossowski  (value is materialized living relation of voluptuous (e)motion)
+Farley      "The question of reparations is produced by the system of marks. 
+            The question of reparations is produced by the system of property. 
+            The question of reparations is produced by the system of law. The 
+            answer to the question requires the end of law, the end of 
+            property, and the end of marks. The answer to the question of 
+            reparations is the end of white-over-black." (Anthony Paul Farley. The Apogee of the Commodity.)
 ```
 
 Everything's gotta eat, even money: you are what you eat.
