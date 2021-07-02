@@ -269,7 +269,7 @@ How can we teach the web to play with itself? To jack off? Even when we're not l
 # Thinking Money
 
 All that blather about "money" being "durable," "globally transferrable," 
-"fungible," "store of value"... rubbish!
+"fungible," "divisible," "store of value"... rubbish!
 
 Money is a nonhuman living hyperobject that preexisted market economy: it must 
 be safe, idempotent, mutable and transclusive.
