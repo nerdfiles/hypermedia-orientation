@@ -202,7 +202,7 @@ interplanetary communication? Hardly!
 
 Blockchains are not scale-free because they do not begin from hypermedia-orientation.
 
-Look at a transaction's JSON: do you see any links? No. Hashes. Big deal.
+Look at a transaction's JSON: do you see any links? No. Addresses, Hashes... Big deal!
 
 It's got "nested" structure, and even "values": but we need relata-specificity (link 
 relation as <i>relating relation</i> inasmuch as we consider <i>perceptual 
@@ -596,8 +596,8 @@ The problem is that these authors have misrecognized the fundamental nature of c
 But what about the link? Is there a <i>living link relation</i>? Is an assemblage (irreducible mereological complex) of links too living hyperobjects?
 
 # Forget Game Theory
-
 John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
+
 Don't fall for it! Avert agrilogistic substitution!
 
 ```
@@ -632,7 +632,7 @@ Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather
 
 Authorship of non-standard link relation is to express metanorms in the lingua franca of web.
 
-<blockquote><p>Once metanorms had become part of the cultural content that was transmitted from one generation to the next their use could have been extended to patterns of behavior that distinguished one com­ munity from another. In other words, metanorms could have become a mechanism not only for the emergence of solidarity and a sense of communal identity but also for the enforcement of behavioral patterns that were unique to a community and consolidated that identity.</p>
+<blockquote><p>Once metanorms had become part of the cultural content that was transmitted from one generation to the next their use could have been extended to patterns of behavior that distinguished one community from another. In other words, metanorms could have become a mechanism not only for the emergence of solidarity and a sense of communal identity but also for the enforcement of behavioral patterns that were unique to a community and consolidated that identity.</p>
 <div><cite>DeLanda, Manuel. Philosophy and Simulation.</cite></div></blockquote>
 
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
