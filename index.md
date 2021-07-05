@@ -641,7 +641,7 @@ But what about the link? Is there a <i>living link relation</i>? Is an
 assemblage (irreducible mereological complex) of links too living hyperobjects?
 
 # Forget Game Theory
-John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
+Ok, evolutionary Nash optimization only game theory. But also, remember dynamical systems theory and semiotics? John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
 
 Don't fall for it! Avert agrilogistic substitution!
 
