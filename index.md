@@ -535,6 +535,33 @@ blockchains. Capitalism is nothing but the upshot of money afforded an
 agrilogistic science. There's little we can do about it barging through the 
 front door. Even Game-B may be for naught.
 
+# Transcendental Games, Nomic, Latin Octonions, Metalogic Alphabet, etc. and the Agrilogistic Axiology
+
+```
+   O       O
+    \     /
+     \  [/](a)
+      \ /  
+   O---#---O
+    \ / \ /
+     /   \     
+    / \ / \
+   O---#---O
+    \ / \ /
+     /   \     
+    / \ / \
+   O---#---O
+      / \  
+     /   \     
+    /     \
+   O       O
+
+```
+
+Let's imagine we remove (a)... in a gaming of the NN diagram. What is the 
+consequence of directly transposing "rules" or procedures from one language 
+game to another? From hackenbush to hacking-the-hidden-layer.
+
 # Agrilogistics is Easy Think Substance
 
 <blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all 
