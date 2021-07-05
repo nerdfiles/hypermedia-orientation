@@ -53,7 +53,10 @@ specificity a la Fazi). Other examples?
 7. CoRAL[coral]
 8. SDRSes, DeLandan simulational languages, etc.
 
-These languages can be interpretted in a non-denumerable many ways. So the context-freeness has to be given anywhere markup potentially tends away from the event of its decision bound to interactive exteriority conditioning the possibility for its emergence.
+These languages can be interpretted in a non-denumerable many ways. So the 
+context-freeness has to be given anywhere markup potentially tends away from 
+the event of its decision bound to interactive exteriority conditioning the 
+possibility for its emergence.
 
 Non-standard Link Relation concerns how we transindividuate affordances through 
 metasymbolic expression of interiority/exteriority, 
@@ -71,7 +74,12 @@ There is of course a "cache" that resides in various intermediaries: we may
 systematically analyze these strings using "context units" (in much the same 
 way the "Context Object" improved on the Event Loop Design Pattern[co]).
 
-<blockquote><p>Context units store the activation values of all the hidden units at a given time *t* and make these values available as inputs at the subsequence cycle *t* + 1. Since information about the hidden units at *t* is available as an input at *t* + 1, and since these values, in turn affect the values of the hidden units at *t* +2, the context units provide the net with the ability to encode a memory of a whole sequence of inputs.</p>
+<blockquote><p>Context units store the activation values of all the hidden 
+units at a given time *t* and make these values available as inputs at the 
+subsequence cycle *t* + 1. Since information about the hidden units at *t* is 
+available as an input at *t* + 1, and since these values, in turn affect the 
+values of the hidden units at *t* +2, the context units provide the net with 
+the ability to encode a memory of a whole sequence of inputs.</p>
 <div><cite>Cognition without Classical Architecture. Garson, James.<sup>[cog]</sup></cite></div></blockquote>
 
 # Metaproblems to sell more problems
@@ -578,10 +586,14 @@ p7l: political (equity)
 
 Conceptual and epistemic, and therefore computational, complexity induce forms of emergence  ...
 
-<blockquote><p>If we accept that computation is a method of abstraction, and that aesthetics is a theory of experience, then the aesthetic investigation of computation invites us to question the relation between what is abstracted and what is experienceable.</p>
+<blockquote><p>If we accept that computation is a method of abstraction, and 
+that aesthetics is a theory of experience, then the aesthetic investigation of 
+computation invites us to question the relation between what is abstracted and 
+what is experienceable.</p>
 <div><cite>Beatrice M Fazi</cite></div></blockquote>
 
-<blockquote><p>Can the notion of emergence help us to induce, rather than deduce, inferences, decisions, and instructions in computation?</p>
+<blockquote><p>Can the notion of emergence help us to induce, rather than 
+deduce, inferences, decisions, and instructions in computation?</p>
 <div><cite>Contingent Computation. pg. 161. Beatrice M Fazi.</cite></div></blockquote>
 
 1. Try proofgramming[proofgramming] 
@@ -589,11 +601,17 @@ Conceptual and epistemic, and therefore computational, complexity induce forms o
 
 # Looks dangerously similar: what're we up against?
 
-<blockquote><p>There is no subject, and the experience of the Self is a mental illusion, or delusion, created by the functioning of complex physical systems which generate consciousness from complexity (Dennett, 1992; Metzinger, 2003).</p><div><cite>[<sup>[chim]</sup>]</cite></div></blockquote>
+<blockquote><p>There is no subject, and the experience of the Self is a mental 
+illusion, or delusion, created by the functioning of complex physical systems 
+which generate consciousness from complexity (Dennett, 1992; Metzinger, 2003).
+</p><div><cite>[<sup>[chim]</sup>]</cite></div></blockquote>
 
-The problem is that these authors have misrecognized the fundamental nature of computation: a nonhuman living hyperobject, even complexity itself insofar as we understand eventuation, integration, hierarchicalization, etc.
+The problem is that these authors have misrecognized the fundamental nature of 
+computation: a nonhuman living hyperobject, even complexity itself insofar as 
+we understand eventuation, integration, hierarchicalization, etc.
 
-But what about the link? Is there a <i>living link relation</i>? Is an assemblage (irreducible mereological complex) of links too living hyperobjects?
+But what about the link? Is there a <i>living link relation</i>? Is an 
+assemblage (irreducible mereological complex) of links too living hyperobjects?
 
 # Forget Game Theory
 John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
@@ -625,14 +643,28 @@ Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather
 
 # Forgiving Semiotic Dynamics
 
-<blockquote><p>In semiotic dynamics, for example, the original plurality of idiosyncratic vocabularies is slowly narrowed down to a single shared lexicon by the tendency of agents to choose symbolic artifacts according to how referentially successful they have been in the past. And similarly for the simulation of label concatenation as a means to express causality: every generation has a tendency to start with those monolithic sentences that were more predictive of the real link between moon phase and tide state, and this acts a bottleneck facilitating the passage of some but not other artifacts to the next generation.</p>
+<blockquote><p>In semiotic dynamics, for example, the original plurality of 
+idiosyncratic vocabularies is slowly narrowed down to a single shared lexicon 
+by the tendency of agents to choose symbolic artifacts according to how 
+referentially successful they have been in the past. And similarly for the 
+simulation of label concatenation as a means to express causality: every 
+generation has a tendency to start with those monolithic sentences that were 
+more predictive of the real link between moon phase and tide state, and this 
+acts a bottleneck facilitating the passage of some but not other artifacts to 
+the next generation.</p>
 <div><cite>DeLanda, Manuel. Philosophy and Simulation. pg. 158.</cite></div></blockquote>
 
 # Forgiving Semiotic Dynamics
 
 Authorship of non-standard link relation is to express metanorms in the lingua franca of web.
 
-<blockquote><p>Once metanorms had become part of the cultural content that was transmitted from one generation to the next their use could have been extended to patterns of behavior that distinguished one community from another. In other words, metanorms could have become a mechanism not only for the emergence of solidarity and a sense of communal identity but also for the enforcement of behavioral patterns that were unique to a community and consolidated that identity.</p>
+<blockquote><p>Once metanorms had become part of the cultural content that was 
+transmitted from one generation to the next their use could have been extended 
+to patterns of behavior that distinguished one community from another. In 
+other words, metanorms could have become a mechanism not only for the 
+emergence of solidarity and a sense of communal identity but also for the 
+enforcement of behavioral patterns that were unique to a community and 
+consolidated that identity.</p>
 <div><cite>DeLanda, Manuel. Philosophy and Simulation.</cite></div></blockquote>
 
 [syllogism]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/
