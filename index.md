@@ -538,6 +538,7 @@ front door. Even Game-B may be for naught.
 # Transcendental Games, Nomic, Latin Octonions, Metalogic Alphabet, etc. and the Agrilogistic Axiology
 
 ```
+
    O       O
     \     /
      \  [/](a)
@@ -590,7 +591,7 @@ differentiality and dialecticality (dialecticity?). Names take on modes of conte
 		|      p7l ------- m5g ------ c6l        |
 		|          \    /       \     /          |
 		|           \  /         \   /           |
-		|          information flows down        | (downwards causal emergence)
+		|          information flows/down        | (downwards causal emergence)
 		|            /\  | a5s |   \             |
 		|           / events flow up\            | (upwards causal emergence)
 		|          /    \        /   \           |
