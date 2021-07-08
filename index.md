@@ -578,6 +578,47 @@ space, the toilet where the chemicals go. As we have seen, there is a simple
 Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i>.</p>
 <div><cite>Dark Ecology</cite></div></blockquote>
 
+Bence Nanay, Sebastien Rödl, Timothy Morton, etc. are touching the same 
+difficulty: modal force is logically prior to temporality, templexity, etc. 
+However, how do we imagine ourselves imagining modal facts if we are 
+constrained to a technology of understanding grounded in spatial metaphors? 
+How can the outside, interactive exteriority, be described, or better: where 
+should it be expressed?
+
+# Agrilogistic Science is Easy Think Substance
+
+My hypothesis is that its expression will take place in link relation of the 
+actual occasion of web pages; it doesn't really matter the protocol or media 
+type. There is no such thing as a "problem of spacetime" since the outside is 
+logically prior to spacetime. To show this, computational procedure will need 
+to obviously keep secrets, but in this case: secrets are logically prior to 
+magical belief. Computation, then, would be conditioned to induce the 
+properties of a post-human mathematics (its perceptual states inclusive of its 
+own computational history). 
+
+But is there any logical, factual or mental evidence that determines what a 
+symbol means when computational expression, or elaboration, takes place?
+
+# Agrilogistic Science is Easy Think Substance
+
+Microsoft et al. are obviously, just as well, terrified of "private languages" 
+so defined, or founded, through the agrilogistic lens. Can we program the 
+field of vision, etc.? Program death? Or desire? Even dreams? To what end, why 
+should the shadows of the cave, indeed the darkness deeper within, not be the 
+edges of chaos, rather than our mere perceptual states? Is the author is a 
+wish from the outside-text? Arriving to the end of history, being there the 
+will of the author speaks a grave situated as if not the expanse of the 
+graveyard of the possible. Shadows indeed, but internalized horror -- why 
+should the horror, even the longing, or the melancholy, drive out the vision? 
+Why would any depth of the cave necessarily condition us to internalize horror 
+out of darkness if we indeed had been designed through the cave itself? Why 
+should a cave care if we are present or not? Can we see the cave for its 
+rocks? Could we ever? How would the evolutionary tale speak for the threat 
+ecology of the cave, if it were that shadows were its deepest threat? A cave 
+of refuge, sanctuary, dreams. Whole epochs given without givenness in caves, 
+the dark becoming both protector and capacitor of and for a realm of toy 
+shadows and toy temporalities: <i>the surrealm of toy modalities</i>.
+
 # Hypermediating Implements
 
 Bear with me... Events take on the modes of functional genericity, continuity, 
