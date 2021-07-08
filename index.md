@@ -726,6 +726,22 @@ natural-form (biological function; natural sign) just are in a parity as the
 real constituents themselves, as if <i>more real</i> than the constituents 
 themselves?
 
+# Forget Game Theory
+
+Do water and money even "malfunction" in the same way, by the same manner with 
+similar consequences? If mental states, or perceptual states, are 
+individuation dependent on the outside (interactive exteriority) to what 
+extent is any allegedly existing possible world not subsumed to the very 
+possibility of the interactive exteriority? Or not merely an extension of the 
+actual world through its actual occasion. Only the actual is real, therefore, 
+the individuation of our terms is not merely brought about their change but 
+our ability to predict change. Change is the outside; not that the past and 
+the present are outside of the present. Our technology of understanding the 
+past, present and future is conditioned by an imagination, an analytic 
+imaginary, that is given itself without givenness: contingent computation. 
+Intelligible contingency is logically prior to time; however conceived: Modal 
+Time is logically prior to the * Series).
+
 # Forget Game Theory 
 
 Don't fall for it! Avert agrilogistic substitution! We can't just go about 
