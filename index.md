@@ -622,6 +622,8 @@ shadows and toy temporalities: <i>the surrealm of toy modalities</i>.
 
 Is modal web variability-load lifting in systematic tasks? Is temporal function possible if the function of consciousness is such that time perceives itself through human consciousness interplayed with the empty dynamism of sound-flow? Is aural function biological or artifact? How do we account for,malfunctioning web if part of its computational-form involves the outside criterion of and for political alterity?
 
+Is modal computational REST possible in link relation? Interface function; relational function. Modal lexical ecology or modal cryptologic.
+
 # Hypermediating Implements
 
 Bear with me... Events take on the modes of functional genericity, continuity, 
