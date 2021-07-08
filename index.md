@@ -443,11 +443,11 @@ define a concrete space of possibilities with a definite structure.</p>
 
 So what's this all about? 
 
-What are some other terms synonymous with "independence" (or, what is actually 
-"mechanism-independent structure")?
+What are some other properties of a network which tug our sense of 
+"independence" (or, what is actually "mechanism-independent structure")? What are the signs of a <i>healthy network</i>?
 
 In the context of the computational sciences (what was once called merely 
-"Computer Science"): <i>coordination-free</i>.
+"Computer Science"): <i>coordination-free</i>, <i>scale-free</i>, <i>identification-free</i>
 
 # Understating Hypermedia
 
