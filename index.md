@@ -563,7 +563,7 @@ Let's imagine we remove (a)... in a gaming of the NN diagram. What is the
 consequence of directly transposing "rules" or procedures from one language 
 game to another? From hackenbush to hacking-the-hidden-layer.
 
-# Agrilogistics is Easy Think Substance
+# Agrilogistic Science is Easy Think Substance
 
 <blockquote><p>Agrilogistics is Easy Think spacetime. A one-size-fits-all 
 depression temporality, a sad rigid thin gray tube. We are living inside 
@@ -642,9 +642,18 @@ But what about the link? Is there a <i>living link relation</i>? Is an
 assemblage (irreducible mereological complex) of links too living hyperobjects?
 
 # Forget Game Theory
-Ok, evolutionary Nash optimization only game theory. But also, remember dynamical systems theory and semiotics? John Nash Jr. compares "water" to "money": this is an agrilogistic trick. 
+Ok, evolutionary Nash optimization only game theory. But also, remember 
+dynamical systems theory and semiotics? John Nash Jr. compares "water" to 
+"money": this is an agrilogistic trick. 
 
-Don't fall for it! Avert agrilogistic substitution!
+Don't fall for it! Avert agrilogistic substitution! We can't just go about 
+theorizing that shopping malls and riverponds are interchangeable just on 
+account of being ex-changeable. We must re-imagine relation without exchange, 
+as Laruelle would argue.
+
+Are symmetries preserved after quantization? Particularly those symmetrical 
+relations of markets which condition the possibility of exchange? Are markets 
+only ever equilibrium-bound asymptotically?
 
 ```
 Nash        Asymptotic/Ideal Money, etc.
