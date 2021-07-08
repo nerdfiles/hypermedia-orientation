@@ -663,19 +663,68 @@ resulting outcome of any such war?
 Could Twin Earth water ever pick out money? Or vice versa? What of Twin Earth 
 money? Is it conceivable, or an impossible object?
 
+# Forget Game Theory
+
 There is no monetary fact our evolutionary history that determines value when 
 we exchange things. What of modal facts? Is money ultimately serve an 
 "artifact function" or a "biological function" (Bence Nanay).
 
-If we want to reduce the communist and the anticommunist to merely "schemers," which must first distinguish these labels: do they pick out biological or artifact functions? Do they pick out the same kind of function, assuming as such that they are no more than ontologically indistinguishable "schemers" (indiscernability of identicals). Are "communist" and "anticommunist" merely oppositional categories to ourselves, or at they inherently antagonistic? Do these meaning-tags cover no more than biological and artificial worlds of world-thought? Is there more to our world than biological and artificial interactions; are capacities and tendencies themselves functions? We may grant this, but under which category to they fall: biological or artifact? Or are they the very conditions through which the biological and artificial are grounded in perceptual states? Functions, regardless of their ontological commitments, may very will be analyzable in terms of their decay; however money decays, it may be coded, yet the model of the interactive exteriority which founds these hyperobjects. To say the least, everything eats: water decomposes various things just as much as money. We may chart out how these agents and interactions maintain a parity with each other, as much as equations themselves and the natural laws contingently condition each other in the expression of computational procedure.
+If we want to reduce the communist and the anticommunist to merely "schemers," 
+which must first distinguish these labels: do they pick out biological or 
+artifact functions? Do they pick out the same kind of function, assuming as 
+such that they are no more than ontologically indistinguishable "schemers" 
+(indiscernability of identicals). Are "communist" and "anticommunist" merely 
+oppositional categories to ourselves, or at they inherently antagonistic? Do 
+these meaning-tags cover no more than biological and artificial worlds of 
+world-thought? Is there more to our world than biological and artificial 
+interactions; are capacities and tendencies themselves functions? We may grant 
+this, but under which category to they fall: biological or artifact? Or are 
+they the very conditions through which the biological and artificial are 
+grounded in perceptual states? Functions, regardless of their ontological 
+commitments, may very will be analyzable in terms of their decay; however 
+money decays, it may be coded, yet the model of the interactive exteriority 
+which founds these hyperobjects. To say the least, everything eats: water 
+decomposes various things just as much as money. We may chart out how these 
+agents and interactions maintain a parity with each other, as much as 
+equations themselves and the natural laws contingently condition each other in 
+the expression of computational procedure.
 
-Our task is the interplay of the communist and the anticommunist, as much as the interplay of water and money, extension and thought.
+# Forget Game Theory
+
+Our task is the interplay of the communist and the anticommunist, as much as 
+the interplay of water and money, extension and thought.
 
 The attribute of thought and the attribute of extension, just schemers? Hardly.
 
-Why would we even want a theory that sees "political antagonism" as mere opposition as water and money are merely opposed? Before that, why would we even desire a description of the world that supposes an equivalence relation as if it were more real than the entities being supposed to contribute to its expression? As Arianna Betti asks, "Why is it desirable not to introduce new entities merely for the sake of solving a problem?" (Against Facts).
+Why would we even want a theory that sees "political antagonism" as mere 
+opposition as water and money are merely opposed? Before that, why would we 
+even desire a description of the world that supposes an equivalence relation 
+as if it were more real than the entities being supposed to contribute to its 
+expression? As Arianna Betti asks, "Why is it desirable not to introduce new 
+entities merely for the sake of solving a problem?" (Against Facts).
 
-The thing supposed by Nash is a "miraculous energy source." But I thought we were moving in the direction of probabilistic knowledge as a grounding for scientific abductive reasoning? Not more "iconic" metaphysics, pyramids and the like.
+# Forget Game Theory
+
+The thing supposed by Nash is a "miraculous energy source." But I thought we 
+were moving in the direction of probabilistic knowledge as a grounding for 
+scientific abductive reasoning? Not more "iconic" metaphysics, pyramids and the like. 
+
+We must first account for modal forces through the composition of modal 
+mereological complexes, prior to any ontologization of time. The scientific 
+image (water) and the manifest image (money) are to be distinguished through modal 
+properties, not merely the A Series (or even the B Series, C Series E/D Series). 
+The unreality of time, or our impossibility to demonstrate how any series 
+involves change conditions that we may include change itself in our ontology 
+as fundamental, a first-class ontological commitment. What we require, then, 
+is a syntax of and for change: the syntax of the real. In this way we open the 
+possibility of the communist and anticommunist to be not merely distinguished 
+through their temporal manifestations but so to their modal properties. Money 
+requires a political criterion of alterity, water does not; it goes without 
+saying: you couldn't even eat <i>ideal money</i>. So why suppose that the 
+decay of value-form (artifact function; conventional sign) and the 
+natural-form (biological function; natural sign) just are in a parity as the 
+real constituents themselves, as if <i>more real</i> than the constituents 
+themselves?
 
 # Forget Game Theory 
 
