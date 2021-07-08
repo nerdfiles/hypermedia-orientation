@@ -642,9 +642,42 @@ But what about the link? Is there a <i>living link relation</i>? Is an
 assemblage (irreducible mereological complex) of links too living hyperobjects?
 
 # Forget Game Theory
+
+<blockquote><p>The (economic) intelligibility of a useful object on the 
+  commodity plane, by virtue of monetary syntax, guarantees the same 
+  fraudulent operation, relative to needs and their objects, as the 
+  intelligibility of language does relative to instinctual life.</p>
+  <div><cite>Living Currency. Pierre Klossowski. pg. 24.</cite></div>
+</blockquote>
+
 Ok, evolutionary Nash optimization only game theory. But also, remember 
 dynamical systems theory and semiotics? John Nash Jr. compares "water" to 
-"money": this is an agrilogistic trick. 
+"money": this is an agrilogistic trick. It's pre-scientific metaphysics, at 
+best poetry. What does water reveal of the hidden of nature, and what does 
+money reveal? Does water reveal to use the structure of human social organization?
+Does water indicate to us some emergent structure of our social cognition? Have we 
+ever sought out and fought wars over water in such a way that water itself 
+became the deciding factor determined in the last instance toward the 
+resulting outcome of any such war?
+
+Could Twin Earth water ever pick out money? Or vice versa? What of Twin Earth 
+money? Is it conceivable, or an impossible object?
+
+There is no monetary fact our evolutionary history that determines value when 
+we exchange things. What of modal facts? Is money ultimately serve an 
+"artifact function" or a "biological function" (Bence Nanay).
+
+If we want to reduce the communist and the anticommunist to merely "schemers," which must first distinguish these labels: do they pick out biological or artifact functions? Do they pick out the same kind of function, assuming as such that they are no more than ontologically indistinguishable "schemers" (indiscernability of identicals). Are "communist" and "anticommunist" merely oppositional categories to ourselves, or at they inherently antagonistic? Do these meaning-tags cover no more than biological and artificial worlds of world-thought? Is there more to our world than biological and artificial interactions; are capacities and tendencies themselves functions? We may grant this, but under which category to they fall: biological or artifact? Or are they the very conditions through which the biological and artificial are grounded in perceptual states? Functions, regardless of their ontological commitments, may very will be analyzable in terms of their decay; however money decays, it may be coded, yet the model of the interactive exteriority which founds these hyperobjects. To say the least, everything eats: water decomposes various things just as much as money. We may chart out how these agents and interactions maintain a parity with each other, as much as equations themselves and the natural laws contingently condition each other in the expression of computational procedure.
+
+Our task is the interplay of the communist and the anticommunist, as much as the interplay of water and money, extension and thought.
+
+The attribute of thought and the attribute of extension, just schemers? Hardly.
+
+Why would we even want a theory that sees "political antagonism" as mere opposition as water and money are merely opposed? Before that, why would we even desire a description of the world that supposes an equivalence relation as if it were more real than the entities being supposed to contribute to its expression? As Arianna Betti asks, "Why is it desirable not to introduce new entities merely for the sake of solving a problem?" (Against Facts).
+
+The thing supposed by Nash is a "miraculous energy source." But I thought we were moving in the direction of probabilistic knowledge as a grounding for scientific abductive reasoning? Not more "iconic" metaphysics, pyramids and the like.
+
+# Forget Game Theory 
 
 Don't fall for it! Avert agrilogistic substitution! We can't just go about 
 theorizing that shopping malls and riverponds are interchangeable just on 
