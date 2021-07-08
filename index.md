@@ -611,6 +611,7 @@ will of the author speaks a grave situated as if not the expanse of the
 graveyard of the possible. Shadows indeed, but internalized horror -- why 
 should the horror, even the longing, or the melancholy, drive out the vision? 
 Why would any depth of the cave necessarily condition us to internalize horror 
+
 out of darkness if we indeed had been designed through the cave itself? Why 
 should a cave care if we are present or not? Can we see the cave for its 
 rocks? Could we ever? How would the evolutionary tale speak for the threat 
@@ -618,6 +619,8 @@ ecology of the cave, if it were that shadows were its deepest threat? A cave
 of refuge, sanctuary, dreams. Whole epochs given without givenness in caves, 
 the dark becoming both protector and capacitor of and for a realm of toy 
 shadows and toy temporalities: <i>the surrealm of toy modalities</i>.
+
+Is modal web variability-load lifting in systematic tasks? Is temporal function possible if the function of consciousness is such that time perceives itself through human consciousness interplayed with the empty dynamism of sound-flow? Is aural function biological or artifact? How do we account for,malfunctioning web if part of its computational-form involves the outside criterion of and for political alterity?
 
 # Hypermediating Implements
 
