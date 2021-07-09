@@ -305,13 +305,35 @@ inducing changes within their upper ontology's given motility of actual occasion
 
 # Acts and Dramas
 
-Is intelligence in content or in form? Let's keep it hybrid:
+Is intelligence in content or in form? How can we make sense of "intelligible 
+contingency" such that modal force (having a property) is logically prior to 
+temporality (holding a property) in API affordance? Let's keep it hybrid:
 
 1. forms-from-facts
 2. forms-from-mereological-complexes
 3. forms-from-content
 4. forms-from-content-in-structure
-5. froms-form-content-in-structural-link-relation
+5. forms-from-content-in-structural-link-relation
+6. code-from-content-in-structural-link-relation
+7. everything-is-already-coded-from-content-in-structural-link-relation
+
+What stops us from writing
+
+```
+  rel="<form>...</form>"
+```
+
+Well the parser, but now we can predict forms within the syntactic space and 
+perform computation at the local context without requesting the specified 
+<code>[href]</code>, assuming that the client implements, say, a P2Pweb 
+portal. Or even embeddeding HTML is a non-hypermedia-type:
+
+```
+  {{beginning_header_of_file}}
+  <html>...</html>
+  {{ending_header_of_file}}
+  {{rest_of_file}}
+```
 
 # Hypermedia in Nouns and Verbs
 
@@ -611,7 +633,6 @@ will of the author speaks a grave situated as if not the expanse of the
 graveyard of the possible. Shadows indeed, but internalized horror -- why 
 should the horror, even the longing, or the melancholy, drive out the vision? 
 Why would any depth of the cave necessarily condition us to internalize horror 
-
 out of darkness if we indeed had been designed through the cave itself? Why 
 should a cave care if we are present or not? Can we see the cave for its 
 rocks? Could we ever? How would the evolutionary tale speak for the threat 
@@ -619,10 +640,6 @@ ecology of the cave, if it were that shadows were its deepest threat? A cave
 of refuge, sanctuary, dreams. Whole epochs given without givenness in caves, 
 the dark becoming both protector and capacitor of and for a realm of toy 
 shadows and toy temporalities: <i>the surrealm of toy modalities</i>.
-
-Is modal web variability-load lifting in systematic tasks? Is temporal function possible if the function of consciousness is such that time perceives itself through human consciousness interplayed with the empty dynamism of sound-flow? Is aural function biological or artifact? How do we account for,malfunctioning web if part of its computational-form involves the outside criterion of and for political alterity?
-
-Is modal computational REST possible in link relation? Interface function; relational function. Modal lexical ecology or modal cryptologic.
 
 # Hypermediating Implements
 
