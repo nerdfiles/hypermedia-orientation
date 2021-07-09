@@ -802,6 +802,10 @@ themselves?
   <div><cite>Harrison’ s Clocks: a perspective on their Context, their Time, and their Mechanisms.<sup>[[harrison]]</cite></div>
 </blockquote>
 
+Clocks I, III, V are Series A, B, and C (homeostasis); do not involve change, but do involve chance; ossification.
+
+Clocks II and IV are Series D/E (motion/motility); do not involve chance, but do involve change synchronization; fragmentation.
+
 # Forget Game Theory
 
 Do water and money even "malfunction" in the same way, by the same manner with 
