@@ -325,7 +325,7 @@ What stops us from writing
 
 Well the parser, but now we can predict forms within the syntactic space and 
 perform computation at the local context without requesting the specified 
-<code>[href]</code>, assuming that the client implements, say, a P2Pweb 
+<code>[href]</code>, assuming that the client implements, say, a [P2Pweb][p2pweb] 
 portal. Or even embeddeding HTML is a non-hypermedia-type:
 
 ```
@@ -880,3 +880,4 @@ consolidated that identity.</p>
 [darkecology]: https://cup.columbia.edu/book/dark-ecology/9780231177528
 [chim]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374344/
 [proofgramming]: https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
+[p2pweb]: https://github.com/elendirx/web2web
