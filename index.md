@@ -819,6 +819,8 @@ but do involve chance; ossification.
 <i>Note</i>: Clocks II and IV are Series D/E (motion/motility); do not involve chance, but 
 do involve change synchronization; fragmentation.
 
+See [Psychonomic Hypermedia][psychonomich].
+
 # Forget Game Theory
 
 Do water and money even "malfunction" in the same way, by the same manner with 
@@ -833,7 +835,12 @@ the present are outside of the present. Our technology of understanding the
 past, present and future is conditioned by an imagination, an analytic 
 imaginary, that is given itself without givenness: contingent computation. 
 Intelligible contingency is logically prior to time; however conceived: Modal 
-Time is logically prior to the * Series).
+Time is logically prior to the * Series, just as <i>aisthetics grounds logic</i>,
+or, in Marxist rhetoric: developmental relations (i.e., aisthetic relations) 
+"congeal" into the logical relations (congealed abstract labor codified in the 
+superstrucure), such that contradictions do not take place in the base 
+structure but in changes which are <i>ossified</i> in the superstructure 
+(i.e., logical relations)).
 
 # Forget Game Theory 
 
@@ -912,3 +919,4 @@ consolidated that identity.</p>
 [proofgramming]: https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
 [p2pweb]: https://github.com/elendirx/web2web
 [harrison]: https://www.bestmusicteacher.com/download/harrisons_clocks.pdf
+[psychonomich]: https://dualyticalchemy.medium.com/psychonomic-hypermedia-551196d3e017
