@@ -798,13 +798,26 @@ themselves?
 # Forget Game Theory
 
 <blockquote><p>
-  The relationship between the ‘toccatas’ and the ‘chiming pieces’ can be seen in terms of the contrast between an emphasis on motion (in the toccatas) and on stasis (in the chiming pieces). That is not to suggest that the toccatas solely pursue relentless progress, or that the chiming pieces fail to go anywhere, but indicates the predominant characteristics of these movement types. To be more precise, it seems that the Clocks II and IV are engaged in a continual search for motion and dynamic energy, but eventually submit to their naturally static tendencies. Whereas, Clocks I, III, and V are quite simply unable to find a way out of their highly charged (if not necessarily regular or predictable) pulsations and processes – thus Birtwistle’s suggestion that their endings are, to an extent, arbitrary.</p>
-  <div><cite>Harrison’ s Clocks: a perspective on their Context, their Time, and their Mechanisms.<sup>[[harrison]]</cite></div>
+  The relationship between the ‘toccatas’ and the ‘chiming pieces’ can be seen 
+  in terms of the contrast between an emphasis on motion (in the toccatas) and 
+  on stasis (in the chiming pieces). That is not to suggest that the toccatas 
+  solely pursue relentless progress, or that the chiming pieces fail to go 
+  anywhere, but indicates the predominant characteristics of these movement 
+  types. To be more precise, it seems that the Clocks II and IV are engaged in 
+  a continual search for motion and dynamic energy, but eventually submit to 
+  their naturally static tendencies. Whereas, Clocks I, III, and V are quite 
+  simply unable to find a way out of their highly charged (if not necessarily 
+  regular or predictable) pulsations and processes – thus Birtwistle’s 
+  suggestion that their endings are, to an extent, arbitrary.</p>
+  <div><cite>Harrison’ s Clocks: a perspective on their Context, their Time, 
+      and their Mechanisms.<sup>[[harrison]]</cite></div>
 </blockquote>
 
-Clocks I, III, V are Series A, B, and C (homeostasis); do not involve change, but do involve chance; ossification.
+<i>Note</i>: Clocks I, III, V are Series A, B, and C (homeostasis); do not involve change, 
+but do involve chance; ossification.
 
-Clocks II and IV are Series D/E (motion/motility); do not involve chance, but do involve change synchronization; fragmentation.
+<i>Note</i>: Clocks II and IV are Series D/E (motion/motility); do not involve chance, but 
+do involve change synchronization; fragmentation.
 
 # Forget Game Theory
 
