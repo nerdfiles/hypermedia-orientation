@@ -335,6 +335,12 @@ portal. Or even embeddeding HTML is a non-hypermedia-type:
   {{rest_of_file}}
 ```
 
+Or in SVG, we can embed DOM behaviors within a <a href="https://twitter.com/dualyticalchemy/status/1283195024449183746/photo/1"><code>&lt;foreignObject&gt;</code></a> 
+such that the content negotiation pre-figuration can allow for rendering SVG 
+with capabilities locally from the file system or simply render a web page if 
+opened through HTTP: normalization and uniformity of the URL allows for these 
+capabilities to be expressible in a non-dual way (unilaterally dualyzed functions).
+
 # Hypermedia in Nouns and Verbs
 
 We already understand the concept of "action" at the protocol level. We want "
@@ -791,6 +797,13 @@ themselves?
 
 # Forget Game Theory
 
+<blockquote><p>
+  The relationship between the ‘toccatas’ and the ‘chiming pieces’ can be seen in terms of the contrast between an emphasis on motion (in the toccatas) and on stasis (in the chiming pieces). That is not to suggest that the toccatas solely pursue relentless progress, or that the chiming pieces fail to go anywhere, but indicates the predominant characteristics of these movement types. To be more precise, it seems that the Clocks II and IV are engaged in a continual search for motion and dynamic energy, but eventually submit to their naturally static tendencies. Whereas, Clocks I, III, and V are quite simply unable to find a way out of their highly charged (if not necessarily regular or predictable) pulsations and processes – thus Birtwistle’s suggestion that their endings are, to an extent, arbitrary.</p>
+  <div><cite>Harrison’ s Clocks: a perspective on their Context, their Time, and their Mechanisms.<sup>[[harrison]]</cite></div>
+</blockquote>
+
+# Forget Game Theory
+
 Do water and money even "malfunction" in the same way, by the same manner with 
 similar consequences? If mental states, or perceptual states, are 
 individuation dependent on the outside (interactive exteriority) to what 
@@ -881,3 +894,4 @@ consolidated that identity.</p>
 [chim]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374344/
 [proofgramming]: https://github.com/uwu-tech/Kind/blob/master/base/App/Hello.kind
 [p2pweb]: https://github.com/elendirx/web2web
+[harrison]: https://www.bestmusicteacher.com/download/harrisons_clocks.pdf
