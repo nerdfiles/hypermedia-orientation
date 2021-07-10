@@ -608,7 +608,7 @@ Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i
 
 Bence Nanay, Sebastien Rödl, Timothy Morton, etc. are touching the same 
 difficulty: modal force is logically prior to temporality, templexity, etc. 
-However, how do we imagine ourselves imagining modal facts if we are 
+Yet, how do we imagine ourselves imagining modal facts if we are 
 constrained to a technology of understanding grounded in spatial metaphors? 
 How can the outside, interactive exteriority, be described, or better: where 
 should it be expressed?
