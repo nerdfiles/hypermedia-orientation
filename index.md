@@ -795,6 +795,9 @@ natural-form (biological function; natural sign) just are in a parity as the
 real constituents themselves, as if <i>more real</i> than the constituents 
 themselves?
 
+Ae they say, it's not your money until you spend it: credit and credit alone is 
+money.
+
 # Forget Game Theory
 
 <blockquote><p>

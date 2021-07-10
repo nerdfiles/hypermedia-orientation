@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A presentation that elaborates the integration of mechanism and  mechanism-independent structures of cyberspace.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nerdfiles/hypermedia-orientation.git"
