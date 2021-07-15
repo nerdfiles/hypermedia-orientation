@@ -827,7 +827,10 @@ See [Psychonomic Hypermedia][psychonomich].
 # Forget Game Theory
 
 Do water and money even "malfunction" in the same way, by the same manner with 
-similar consequences? If mental states, or perceptual states, are 
+similar consequences? Pace Vail, as Nash would have it, memes and genes are 
+analyzable in the same methodology, by the same algebraic and algorithmic 
+procedure: what stratifies above transcribes below. If mental states, or 
+perceptual states, are 
 individuation dependent on the outside (interactive exteriority) to what 
 extent is any allegedly existing possible world not subsumed to the very 
 possibility of the interactive exteriority? Or not merely an extension of the 
