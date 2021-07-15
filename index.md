@@ -834,7 +834,7 @@ possibility of the interactive exteriority? Or not merely an extension of the
 actual world through its actual occasion. Only the actual is real, therefore, 
 the individuation of our terms is not merely brought about their change but 
 our ability to predict change. Change is the outside; not that the past and 
-the present are outside of the present. Our technology of understanding the 
+the future are outside of the present. Our technology of understanding the 
 past, present and future is conditioned by an imagination, an analytic 
 imaginary, that is given itself without givenness: contingent computation. 
 Intelligible contingency is logically prior to time; however conceived: Modal 
