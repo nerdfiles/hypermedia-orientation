@@ -104,8 +104,12 @@ models of identity<sup>[mmi]</sup>):
 - Presentation 
 - Capability
 
-While <i>political</i> (or <i>teleological</i>) identity exists, so do <i>structural</i> identity, 
-<i>ontological</i> identity and <i>phenomenological</i> identity.
+While <i>political</i> (or <i>teleological</i>; "debate" in Philonomics) 
+identity exists, so do <i>structural</i> (or <i>spacetime</i>) identity, 
+<i>ontological</i> (or <i>aisthetic</i>) identity and <i>phenomenological</i> 
+(or <i>amorotic</i>) identity; and <i>patalogical</i> (deconstruction) identity. 
+How do we map these between themselves and in Philonomics? Consider the 
+Personal to Material as the analogue to the Humility-Honesty axis in HEXACO.
 
 # Metaproblems to sell more problems
 
