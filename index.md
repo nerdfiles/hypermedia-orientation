@@ -96,7 +96,16 @@ systematic tasks</i> (again, even though the hypermedia web is a "cognitive-like
 possibility space, we do not necessarily have to only take Fodor's model of 
 cognition: instead of methods, we discover "systematic tasks" for integration 
 into our neat little Risk Traits model, which should cover a range of mental 
-models of identity<sup>[mmi]</sup>).
+models of identity<sup>[mmi]</sup>):
+
+- Spacetime 
+- Attribute 
+- Relationship 
+- Presentation 
+- Capability
+
+While political (or teleological) identity exists, so do structural identity, 
+ontological identity and phenomenological identity.
 
 # Metaproblems to sell more problems
 
@@ -670,8 +679,8 @@ differentiality and dialecticality (dialecticity?). Names take on modes of conte
 		| [namespace]                            |
 		adjustment ----------------------- process 
 
-m5g: meaning (learning; HEXACO???)
-d14n: decentralization (architecture; componetexture??? IDEALS)
+m5g: meaning (learning; HEXACO???; philonomics)
+d14n: decentralization (architecture; componetexture??? IDEALS of PTI PRPL RAILs)
 a11y: accessibility (accessibility *is* privacy and security; POUR)
 d6c: didactic (training)
 c6l: clerical (efficiency)
