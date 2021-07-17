@@ -50,7 +50,7 @@ specificity a la Fazi). Other examples?
 4. ASCII 
 5. Modal FOL (S5, S4, doxastic logics, epistemic logics, temporal logics, etc.)
 6. Sheet music (and degradations: guitar tabs, etc.)
-7. CoRAL[coral]
+7. CoRAL<sup>[coral]</sup>
 8. SDRSes, DeLandan simulational languages, etc.
 
 These languages can be interpretted in a non-denumerable many ways. So the 
@@ -72,7 +72,7 @@ solidarity? Productivity? Compositionality? Systematicity? etc.
 
 There is of course a "cache" that resides in various intermediaries: we may 
 systematically analyze these strings using "context units" (in much the same 
-way the "Context Object" improved on the Event Loop Design Pattern[co]).
+way the "Context Object" improved on the Event Loop Design Pattern<sup>[co]</sup>).
 
 <blockquote><p>Context units store the activation values of all the hidden 
 units at a given time *t* and make these values available as inputs at the 
@@ -190,7 +190,7 @@ metaphorical construct, as much as metonymical, synechdocical and ironic
 constructs are realized from the nature of the inherent metaphorical nature of 
 attention: as a spotlight, under certain mechanism-dependent structure, and as 
 a "vision," under the circumstances or simulations of mechanism-independent 
-structure[attn].
+structure<sup>[attn]</sup>.
 
 # A web science needs some ...
 
@@ -262,7 +262,7 @@ relations as causal relations</i>).
                         e.g., https://example.com/api/cars/68a3641a066b1f2d4d2a3328d5b5594020b14ed06096f5b3474ed7893091043a:DriveAction
 ```
 
-For ODRL, Linked Data Proofs[ld-proof] validation logic use CASL with Seneca, 
+For ODRL, Linked Data Proofs<sup>[ld-proof]</sup> validation logic use CASL with Seneca, 
 etc. For the GUID, has the object that is being posted or use REST extended 
 with a queue mechanism for de-duping and use the sequence ID as the input for 
 the hash, place in a DHT for processing by the peer network depending on the type of resource that it
@@ -338,7 +338,7 @@ What stops us from writing
 
 Well the parser, but now we can predict forms within the syntactic space and 
 perform computation at the local context without requesting the specified 
-<code>[href]</code>, assuming that the client implements, say, a [P2Pweb][p2pweb] 
+<code>[href]</code>, assuming that the client implements, say, a <sup>[P2Pweb][p2pweb]</sup> 
 portal. Or even embeddeding HTML is a non-hypermedia-type:
 
 ```
@@ -706,7 +706,7 @@ what is experienceable.</p>
 deduce, inferences, decisions, and instructions in computation?</p>
 <div><cite>Contingent Computation. pg. 161. Beatrice M Fazi.</cite></div></blockquote>
 
-1. Try proofgramming[proofgramming] 
+1. Try proofgramming<sup>[proofgramming]</sup>
 2. Try PTI/CASL/CALM/POUR/RAIL/PRPL/IDEALS/etc with theory proofs in Prolog
 
 # Looks dangerously similar: what're we up against?
