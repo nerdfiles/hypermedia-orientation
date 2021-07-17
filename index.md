@@ -617,7 +617,7 @@ Freudian term for a fatal compulsion that keeps on retweeting: <i>death drive</i
 
 Bence Nanay, Sebastien Rödl, Timothy Morton, etc. are touching the same 
 difficulty: modal force is logically prior to temporality, templexity, etc. 
-However, how do we imagine ourselves imagining modal facts if we are 
+Yet, how do we imagine ourselves imagining modal facts if we are 
 constrained to a technology of understanding grounded in spatial metaphors? 
 How can the outside, interactive exteriority, be described, or better: where 
 should it be expressed?
@@ -804,6 +804,9 @@ natural-form (biological function; natural sign) just are in a parity as the
 real constituents themselves, as if <i>more real</i> than the constituents 
 themselves?
 
+Ae they say, it's not your money until you spend it: credit and credit alone is 
+money.
+
 # Forget Game Theory
 
 <blockquote><p>
@@ -833,14 +836,17 @@ See [Psychonomic Hypermedia][psychonomich].
 # Forget Game Theory
 
 Do water and money even "malfunction" in the same way, by the same manner with 
-similar consequences? If mental states, or perceptual states, are 
+similar consequences? Pace Vail, as Nash would have it, memes and genes are 
+analyzable in the same methodology, by the same algebraic and algorithmic 
+procedure: what stratifies above transcribes below. If mental states, or 
+perceptual states, are 
 individuation dependent on the outside (interactive exteriority) to what 
 extent is any allegedly existing possible world not subsumed to the very 
 possibility of the interactive exteriority? Or not merely an extension of the 
 actual world through its actual occasion. Only the actual is real, therefore, 
 the individuation of our terms is not merely brought about their change but 
 our ability to predict change. Change is the outside; not that the past and 
-the present are outside of the present. Our technology of understanding the 
+the future are outside of the present. Our technology of understanding the 
 past, present and future is conditioned by an imagination, an analytic 
 imaginary, that is given itself without givenness: contingent computation. 
 Intelligible contingency is logically prior to time; however conceived: Modal 
