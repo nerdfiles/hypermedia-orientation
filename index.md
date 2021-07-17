@@ -125,7 +125,7 @@ I have called "non-standard link relations": as a harmonization of François
 Laruelle's "Non-standard Philosophy" and Alfred Jarry's 'Pataphysics. A 
 scientific formulization of Clinamen, Anomalous, Absolute, Antinomy, Pataphor 
 and Syzygy in terms of mechanism and mechanism-structure which may be realized 
-with in the semiotic space of possibiliity of action.
+with in the semiotic space of possibility of action.
 
 # Metaproblems to sell more problems
 
