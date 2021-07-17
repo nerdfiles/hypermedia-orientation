@@ -111,6 +111,11 @@ identity exists, so do <i>structural</i> (or <i>spacetime</i>) identity,
 How do we map these between themselves and in Philonomics? Consider the 
 Personal to Material as the analogue to the Humility-Honesty axis in HEXACO.
 
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/Philonomics.png"
+     alt="philonomics"
+     style="width: 40vw" /></div>
+
 # Metaproblems to sell more problems
 
 <blockquote><p>The net was then tested for its ability to detect this 
