@@ -98,8 +98,8 @@ cognition: instead of methods, we discover "systematic tasks" for integration
 into our neat little Risk Traits model, which should cover a range of mental 
 models of identity<sup>[mmi]</sup>):
 
-- Spacetime (Ontological)
-- Attribute (Structural)
+- Spacetime (Structural)
+- Attribute (Ontological)
 - Relationship (Political)
 - Presentation (Phenomenological)
 - Capability (Patalogical)
