@@ -719,7 +719,7 @@ deduce, inferences, decisions, and instructions in computation?</p>
 <blockquote><p>There is no subject, and the experience of the Self is a mental 
 illusion, or delusion, created by the functioning of complex physical systems 
 which generate consciousness from complexity (Dennett, 1992; Metzinger, 2003).
-</p><div><cite>[<sup>[chim]</sup>]</cite></div></blockquote>
+</p><div><cite>The Chimeric Self: A Neo Naturalist Bundle Theory of the Self<sup>[chim]</sup></cite></div></blockquote>
 
 The problem is that these authors have misrecognized the fundamental nature of 
 computation: a nonhuman living hyperobject, even complexity itself insofar as 
