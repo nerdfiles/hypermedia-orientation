@@ -728,6 +728,13 @@ we understand eventuation, integration, hierarchicalization, etc.
 But what about the link? Is there a <i>living link relation</i>? Is an 
 assemblage (irreducible mereological complex) of links too living hyperobjects?
 
+What is hypermedia's relation to the hyperobject (computation)? Some have argued 
+that we ex-change computation (hyperschemas of computational steps; i.e., CREST, 
+computational REST). Can hypermedia be used to house computational steps, but then 
+further generate novel computational steps through non-metacomputational procedure,
+tendencies and capacities of past computation to emerge and ingress future computational 
+steps formally indeterminably?
+
 # Forget Game Theory
 
 <blockquote><p>The (economic) intelligibility of a useful object on the 
