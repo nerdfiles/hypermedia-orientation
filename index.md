@@ -106,10 +106,13 @@ models of identity<sup>[mmi]</sup>):
 
 While <i>political</i> (or <i>teleological</i>; "debate" in Philonomics) 
 identity exists, so do <i>structural</i> (or <i>spacetime</i>) identity, 
-<i>ontological</i> (or <i>aisthetic</i>; <i>attribute</i>) identity and <i>phenomenological</i> 
-(or <i>amorotic</i>) identity; and <i>patalogical</i> (deconstruction) identity. 
+<i>ontological</i> (or <i>aisthetic</i> (Contingent Computation, Fazi); 
+<i>attribute</i>) identity and <i>phenomenological</i> (or <i>amorotic</i>) 
+identity; and <i>patalogical</i> (deconstruction) identity. 
 How do we map these between themselves and in Philonomics? Consider the 
-Personal to Material as the analogue to the Humility-Honesty axis in HEXACO.
+Personal to Material as the analogue to the Humility-Honesty axis in HEXACO. 
+[mmi] presents a case for interdependence, intercompleteness, etc. of the 
+proposed mental modals.
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/nerdfiles/douadevops/master/images/Philonomics.png"
