@@ -901,7 +901,7 @@ Farley      "The question of reparations is produced by the system of marks.
 
 Everything's gotta eat, even money: you do not (just) eat what you are.
 
-Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather 
+Therefore, <i>money is not (just) what it eats</i>, not exactly "agnostic," but rather 
 *agrilogistic*, eco-gnostic-averse.
 
 # Forgiving Semiotic Dynamics
