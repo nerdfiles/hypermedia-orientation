@@ -837,7 +837,7 @@ themselves?
   simply unable to find a way out of their highly charged (if not necessarily 
   regular or predictable) pulsations and processes – thus Birtwistle’s 
   suggestion that their endings are, to an extent, arbitrary.</p>
-  <div><cite>Harrison’ s Clocks: a perspective on their Context, their Time, 
+  <div><cite>Harrison's Clocks: a perspective on their Context, their Time, 
       and their Mechanisms.<sup>[[harrison]]</cite></div>
 </blockquote>
 
@@ -858,8 +858,8 @@ extent is any allegedly existing possible world not subsumed to the very
 possibility of the interactive exteriority? Or not merely an extension of the 
 actual world through its actual occasion. Only the actual is real, therefore, 
 the individuation of our terms is not merely brought about their change but 
-our ability to predict change. Change is the outside; not that the past and 
-the present are outside of the present. Our technology of understanding the 
+our ability to predict change. <i>Change</i> is the outside; not that the past and 
+the future are outside of the present. Our technology of understanding the 
 past, present and future is conditioned by an imagination, an analytic 
 imaginary, that is given itself without givenness: contingent computation. 
 Intelligible contingency is logically prior to time; however conceived: Modal 
@@ -899,7 +899,7 @@ Farley      "The question of reparations is produced by the system of marks.
             reparations is the end of white-over-black." (Anthony Paul Farley. The Apogee of the Commodity.)
 ```
 
-Everything's gotta eat, even money: you are what you eat.
+Everything's gotta eat, even money: you do not (just) eat what you are.
 
 Therefore, <i>money is what it eats</i>, not exactly "agnostic," but rather 
 *agrilogistic*, eco-gnostic-averse.
