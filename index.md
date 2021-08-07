@@ -7,6 +7,70 @@
 <div>nerdfiles at gmail dot com</div>
 <div><a href="https://github.com/nerdfiles/hypermedia-orientation">repo</a></div>
 
+# Learning the Tower of Babel
+
+```
+  link
+    [rel]="...t̨͕͇̖́̅̂̿o͓̮̾͘w͉̱̗̾̽̃͜͠e͇̅̾͟r̡͙̭͇͂̽̍̿͆͢ ͍̹̉̐ỡ̳͚f ͎̥̈́͠bâ̬̪͙͍̋͑͒̚͢b̦̥̪͗̔͞el̖͔̞͖̇͐̕͞..."
+    [href]="http://example.com"
+```
+
+The beautiful point about the tower of babel is not that there is no ultimate 
+language, but that we could conceive language ontologically to move and come 
+into form just as would buildings, animals and gods. 
+
+What's half a tower of babel? A <i>living tower</i>.
+
+# Remedial: Representation
+
+What is representation (re-presentation)? Since it seems from "politics" to 
+"technology" everybody's got it wrong (or else they would've implemented REST: 
+coincidence?):
+
+A presentation might be a state of affairs or a mereological complex: 
+ontologically homogeneous names (strings), categorically heterogeneous 
+(actions and properties), it's in the world, has a truthbearer, a 
+sentence-subject, etc. At one time, we called these "propositions" (bound to a 
+sentential function with truth-functional semantics). Well, that's a mouthful.
+
+# Remedial: Representation
+
+I can re-present a state of affairs simply, with two properties, a name and a "role":
+
+```
+{
+  "name": "Smith",
+  "actingAs": "Candidate"
+}
+```
+
+Purposively I've created this model of a state of affairs in virtue of using 
+implicit meta-language, the names of properties. Indeed, nothing really stops 
+me from <i>using</i> language, to engage in languaging, here at the property 
+level. I can say "name", "firstName", "first.name", "name/first", and so on, 
+for any number of possible syntactical variations that makes sense to humans, 
+perhaps until we get to properties that start to look like hashes ("9f86d08..."). 
+These are hardly even machine-readable without much computational work (stepping), 
+which is to say that the space between any two possible positions is vast when 
+thinking of "reading" (an abstraction, mind) a hash versus something written 
+in variable language. "9" and "f", whatever reading this string would resolve 
+to, whatever it means, involves conceivably more work than, say, in the 
+sentence "the cat is blue", between the letters "t" and "h", at least from the 
+perspective of a human, the distinction we're attempting to make here.
+
+We might say the above "presentation" says, given sufficient context (and what 
+doesn't happen in a context?): The man who is applying for the job...
+
+The main point to make here is that we are already developing the interface  
+in the very naming ("hard problem") at the property level. We are <i>interfacing</i>.
+
+So imagine the same payload but it is a PUT request: for whatever reason, they 
+can update either of these properties, but in virtue of how they were arranged 
+to the structure of presentational immediacy given of the client. The obvious 
+point is that we often determine the naming pattern of [class]es or [id]s 
+based on these properties at the outset: we are developing the interface at 
+the initial baptism of a property-level name.
+
 # Brass Syntax
 
 Remember JSX (a cursed abomination from Facebook that exceedingly privileges 
@@ -93,7 +157,7 @@ it can then take corrective action by generating an “apology.”</p>
 
 The Discovery Layer starts at <code>HTTP OPTIONS</code><sup>[rfc2616]</sup>: <i>finding 
 systematic tasks</i> (again, even though the hypermedia web is a "cognitive-like" 
-possibility space, we do not necessarily have to only take Fodor's model of 
+possibility space, we do not necessarily have to only take J. Fodor's model of 
 cognition: instead of methods, we discover "systematic tasks" for integration 
 into our neat little Risk Traits model, which should cover a range of mental 
 models of identity<sup>[mmi]</sup>):
@@ -111,7 +175,7 @@ identity exists, so do <i>structural</i> (or <i>spacetime</i>) identity,
 identity; and <i>patalogical</i> (deconstruction) identity. 
 How do we map these between themselves and in Philonomics? Consider the 
 Personal to Material as the analogue to the Humility-Honesty axis in HEXACO. 
-[mmi] presents a case for interdependence, intercompleteness, etc. of the 
+<sup>[mmi]</sup> presents a case for interdependence, intercompleteness, etc. of the 
 proposed mental modals.
 
 <div style="text-align: center;">
@@ -691,13 +755,13 @@ differentiality and dialecticality (dialecticity?). Names take on modes of conte
 		| [namespace]                            |
 		adjustment ----------------------- process 
 
-m5g: meaning (learning; HEXACO???; philonomics)
-d14n: decentralization (architecture; componetexture??? IDEALS of PTI PRPL RAILs)
-a11y: accessibility (accessibility *is* privacy and security; POUR)
-d6c: didactic (training)
-c6l: clerical (efficiency)
-a5s: amorous (agility)
-p7l: political (equity)
+m5g: meaning (learning; HEXACO???; philonomics; WIS)
+d14n: decentralization (architecture; componetexture??? IDEALS of PTI PRPL RAILs; INT)
+a11y: accessibility (accessibility *is* privacy and security; POUR; ALN)
+d6c: didactic (training; CHA)
+c6l: clerical (efficiency; STR)
+a5s: amorous (agility; DEX)
+p7l: political (equity; CON)
 ```
 
 # Hypermediating Implements
