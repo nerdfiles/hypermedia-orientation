@@ -79,6 +79,12 @@ We might think property level description is enough to say we have "re-presented
 
 Indeed, the "next" relation re-presents an action to be taken, logically, but its presentation is up to the client. Any relation is up to interpretation logically prior its functional and structural features, its autonomy and intentionality is constrained to functional and structural possibility. It's different kind of UI dev. But relation can be mapped to a FORM, moreover N relations can be mapped to metacomputational PROCEDURE as FORM to start partial or midway computations at a trigger relational name, discoverable and reason-able in relation syntactic features.
 
+# ...
+
+Links in the response suggest hypermedia orientation: but to what end? Primarily to transition safely, idempotently, mutably, transclusively from context to context. That's it. But with all the contextual logic following with it; our work to be done.
+
+So FORMs become simple or abstract (multiple sequential or parallel) assemblages referred to by us in mentioning names both dynamic or generated or static in link relation (response API payload).
+
 # Brass Syntax
 
 Remember JSX (a cursed abomination from Facebook that exceedingly privileges 
