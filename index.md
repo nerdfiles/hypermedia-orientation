@@ -59,7 +59,9 @@ sentence "the cat is blue", between the letters "t" and "h", at least from the
 perspective of a human, the distinction we're attempting to make here.
 
 We might say the above "presentation" says, given sufficient context (and what 
-doesn't happen in a context?): The man who is applying for the job...
+doesn't happen in a domain context?): The man who is applying for the job...
+
+# Remeeial: Representation
 
 The main point to make here is that we are already developing the interface  
 in the very naming ("hard problem") at the property level. We are <i>interfacing</i>.
@@ -70,6 +72,12 @@ to the structure of presentational immediacy given of the client. The obvious
 point is that we often determine the naming pattern of [class]es or [id]s 
 based on these properties at the outset: we are developing the interface at 
 the initial baptism of a property-level name.
+
+# Remedial: Representation
+
+We might think property level description is enough to say we have "re-presented" a state of affairs, but one is really as complex as we want to make it. From what does representation begin? This is what REST is about: how is representation possible? What is its structure? Or conditions for its possibility? The point of REST is that a resource is minimally self-navigable, it is systematic and functional (CRUD and CRUD navigation). It has a graph that shows all possible actions for the representation, its inner world-thought.
+
+Indeed, the "next" relation re-presents an action to be taken, logically, but its presentation is up to the client. Any relation is up to interpretation logically prior its functional and structural features, its autonomy and intentionality is constrained to functional and structural possibility. It's different kind of UI dev. But relation can be mapped to a FORM, moreover N relations can be mapped to metacomputational PROCEDURE as FORM to start partial or midway computations at a trigger relational name, discoverable and reason-able in relation syntactic features.
 
 # Brass Syntax
 
