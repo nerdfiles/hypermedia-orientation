@@ -7,6 +7,14 @@
 <div>nerdfiles at gmail dot com</div>
 <div><a href="https://github.com/nerdfiles/hypermedia-orientation">repo</a>, <a href="https://dualyticalchemy.medium.com">blag</a></div>
 
+# Why are you...
+
+... as a domain-driven designer, not hypermediating your API's response hypertext?
+
+Let me try to persuade you that DDDD and HATEOAS (IDEALS) overlap in layered 
+separation of concerns as much as complement each other where the other leaves 
+us uncertain.
+
 # Learning the Tower of Babel
 
 ```
@@ -112,8 +120,12 @@ classical architecture.</p>
 
 Links in the response suggest hypermedia orientation: but to what end? 
 Primarily to transition safely, idempotently, mutably, transclusively from 
-context to context. That's it. But with all the contextual logic following 
-with it; our work to be done.
+context to context, giving the client (just a "requester") all that it needs 
+to proceed. But this framing of the task is not (just) intentionally vague: 
+medium specificty is itself part of the solution to the problem, to create a 
+problem space in which agreement on solution, as much as iterative PROCEDURE 
+is possible, with all the contextual logic following with it; our work to be 
+done.
 
 So FORMs become simple or abstract (multiple sequential or parallel) 
 assemblages referred to by us in mentioning names both dynamic or generated or 
