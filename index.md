@@ -5,7 +5,7 @@
      alt="periodic table of information" 
      style="width: 40vw" /></div>
 <div>nerdfiles at gmail dot com</div>
-<div><a href="https://github.com/nerdfiles/hypermedia-orientation">repo</a></div>
+<div><a href="https://github.com/nerdfiles/hypermedia-orientation">repo</a>, <a href="https://dualyticalchemy.medium.com">blag</a></div>
 
 # Learning the Tower of Babel
 
@@ -21,7 +21,16 @@ into form just as would buildings, animals and gods.
 
 What's half a tower of babel? A <i>living tower</i>.
 
-# Remedial: Representation
+How to represent a living architecture where models play (separation of concerns is key):
+
+- (Ontological) Format (hyperschema JSON, etc; it's hypermediated sometimes)
+- (Structural) Protocol (segmented discourse representation theory)
+- (Phenomenological) Domain (distributed domain driven design; and yeah,  
+  you're under a "subdomain" sometimes)
+- (Teleological) Workflow (hypermedia as the engine of application state;  
+  FORMs and LINKs compose metacomputational PROCEDUREs; Fazi)
+
+# Remedial: Re-presentation
 
 What is representation (re-presentation)? Since it seems from "politics" to 
 "technology" everybody's got it wrong (or else they would've implemented REST: 
@@ -33,7 +42,7 @@ ontologically homogeneous names (strings), categorically heterogeneous
 sentence-subject, etc. At one time, we called these "propositions" (bound to a 
 sentential function with truth-functional semantics). Well, that's a mouthful.
 
-# Remedial: Representation
+# Remedial: Re-presentation
 
 I can re-present a state of affairs simply, with two properties, a name and a "role":
 
@@ -61,7 +70,7 @@ perspective of a human, the distinction we're attempting to make here.
 We might say the above "presentation" says, given sufficient context (and what 
 doesn't happen in a domain context?): The man who is applying for the job...
 
-# Remeeial: Representation
+# Remedial: Re-presentation
 
 The main point to make here is that we are already developing the interface  
 in the very naming ("hard problem") at the property level. We are <i>interfacing</i>.
@@ -73,17 +82,42 @@ point is that we often determine the naming pattern of [class]es or [id]s
 based on these properties at the outset: we are developing the interface at 
 the initial baptism of a property-level name.
 
-# Remedial: Representation
+# Remedial: Re-presentation
 
-We might think property level description is enough to say we have "re-presented" a state of affairs, but one is really as complex as we want to make it. From what does representation begin? This is what REST is about: how is representation possible? What is its structure? Or conditions for its possibility? The point of REST is that a resource is minimally self-navigable, it is systematic and functional (CRUD and CRUD navigation). It has a graph that shows all possible actions for the representation, its inner world-thought.
+We might think property level description is enough to say we have 
+"re-presented" a state of affairs, but one is really as complex as we want to 
+make it. From what does representation begin? This is what REST is about: how 
+is representation possible? What is its structure? Or conditions for its 
+possibility? The point of REST is that a resource is minimally self-navigable, 
+it is systematic and functional (CRUD and CRUD navigation). It has a graph 
+that shows all possible actions for the representation, its inner world-thought.
 
-Indeed, the "next" relation re-presents an action to be taken, logically, but its presentation is up to the client. Any relation is up to interpretation logically prior its functional and structural features, its autonomy and intentionality is constrained to functional and structural possibility. It's different kind of UI dev. But relation can be mapped to a FORM, moreover N relations can be mapped to metacomputational PROCEDURE as FORM to start partial or midway computations at a trigger relational name, discoverable and reason-able in relation syntactic features.
+Indeed, the "next" relation re-presents an action to be taken, logically, but 
+its presentation is up to the client. Any relation is up to interpretation 
+logically prior its functional and structural features, its autonomy and 
+intentionality is constrained to functional and structural possibility. It's 
+different kind of UI dev. But relation can be mapped to a FORM, moreover N 
+relations can be mapped to metacomputational PROCEDURE as FORM to start 
+partial or midway computations at a trigger relational name, discoverable and 
+reason-able in relational syntactic features.
 
-# ...
+<blockquote>
+<p>If, e.g., a model using reasonable resources gets the job done with fancy 
+association, then this counts against the view that cognition requires 
+classical architecture.</p>
+<div><cite>Cognition without Classical Architecture. Garson, James</cite></div>
+</blockquote>
 
-Links in the response suggest hypermedia orientation: but to what end? Primarily to transition safely, idempotently, mutably, transclusively from context to context. That's it. But with all the contextual logic following with it; our work to be done.
+# Remedial: Re-presentation
 
-So FORMs become simple or abstract (multiple sequential or parallel) assemblages referred to by us in mentioning names both dynamic or generated or static in link relation (response API payload).
+Links in the response suggest hypermedia orientation: but to what end? 
+Primarily to transition safely, idempotently, mutably, transclusively from 
+context to context. That's it. But with all the contextual logic following 
+with it; our work to be done.
+
+So FORMs become simple or abstract (multiple sequential or parallel) 
+assemblages referred to by us in mentioning names both dynamic or generated or 
+static in link relation (response API payload).
 
 # Brass Syntax
 
