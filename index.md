@@ -80,6 +80,21 @@ doesn't happen in a domain context?): The man who is applying for the job...
 
 # Remedial: Re-presentation
 
+Naming and description seem to be irreducible acts: just as objectification 
+and classification, prescription and description, and so on. Many "distinctions" 
+at once seem necessary as much in their contexts as they seem linked to other 
+necessities in other contexts. How is 'naming' more or less like 'objectification'? 
+How is 'classification' more or less identical than 'description'? Indeed, nothing 
+in the act of naming determines syntactic categories, nor do syntactic categories, 
+if realized, guarantee that the lexical item not be used as a name, from a pragmatic 
+perspective. Linguistics, semantics, semiotics, pragmatics all meet to 
+condition the horizon of possibility of autonomy (material unconscious), 
+functionality (machinic unconscious), intentionality (subjective unconscious) 
+and ... (territorial unconscious); the four aspects of System Level Design, then, 
+can be re-cast in Deleuze's simple philosophical materials.
+
+# Remedial: Re-presentation
+
 The main point to make here is that we are already developing the interface  
 in the very naming ("hard problem") at the property level. We are <i>interfacing</i>.
 
