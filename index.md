@@ -69,11 +69,17 @@ for any number of possible syntactical variations that makes sense to humans,
 perhaps until we get to properties that start to look like hashes ("9f86d08..."). 
 These are hardly even machine-readable without much computational work (stepping), 
 which is to say that the space between any two possible positions is vast when 
-thinking of "reading" (an abstraction, mind) a hash versus something written 
+thinking of "reading" (an abstraction, mind you) a hash versus something written 
 in variable language. "9" and "f", whatever reading this string would resolve 
 to, whatever it means, involves conceivably more work than, say, in the 
-sentence "the cat is blue", between the letters "t" and "h", at least from the 
-perspective of a human, the distinction we're attempting to make here.
+sentence "the cat is blue" (C), between the letters "t" and "h", at least from the 
+perspective of a human, the distinction we're attempting to make here. More 
+important, is that the sentence, C, reliably matches a pattern faster given a 
+regular language with common forms, than strictly random charactersoup. As the 
+systematic task builds contextual units, the similarity between our given statement 
+and the set of established ones converges to given us a substructural moment at which 
+comparison at a sub-sentential level can take place, in which in-between and 
+other lexical positional momenta and spatial norms are determined.
 
 We might say the above "presentation" says, given sufficient context (and what 
 doesn't happen in a domain context?): The man who is applying for the job...
@@ -120,7 +126,7 @@ its presentation is up to the client. Any relation is up to interpretation
 logically prior its functional and structural features, its autonomy and 
 intentionality is constrained to functional and structural possibility. It's 
 different kind of UI dev. But relation can be mapped to a FORM, moreover N 
-relations can be mapped to metacomputational PROCEDURE as FORM to start 
+relations can be mapped to (non-)metacomputational PROCEDURE as FORM to start 
 partial or midway computations at a trigger relational name, discoverable and 
 reason-able in relational syntactic features.
 
