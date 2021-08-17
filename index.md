@@ -62,8 +62,8 @@ I can re-present a state of affairs simply, with two properties, a name and a "r
 ```
 
 Purposively I've created this model of a state of affairs in virtue of using 
-implicit meta-language, the names of properties. Indeed, nothing really stops 
-me from <i>using</i> language, to engage in languaging, here at the property 
+implicit meta-language, the names of properties. Indeed, READ is an abstraction; 
+nothing really stops me from <i>using</i> language, to engage in languaging, here at the property 
 level. I can say "name", "firstName", "first.name", "name/first", and so on, 
 for any number of possible syntactical variations that makes sense to humans, 
 perhaps until we get to properties that start to look like hashes ("9f86d08..."). 
@@ -75,9 +75,9 @@ to, whatever it means, involves conceivably more work than, say, in the
 sentence "the cat is blue" (C), between the letters "t" and "h", at least from the 
 perspective of a human, the distinction we're attempting to make here. More 
 important, is that the sentence, C, reliably matches a pattern faster given a 
-regular language with common forms, than strictly random charactersoup. As the 
+regular language with common forms, than strictly random character soup. As the 
 systematic task builds contextual units, the similarity between our given statement 
-and the set of established ones converges to given us a substructural moment at which 
+and the set of established ones converges to given us a sub-structural moment at which 
 comparison at a sub-sentential level can take place, in which in-between and 
 other lexical positional momenta and spatial norms are determined.
 
@@ -86,18 +86,21 @@ doesn't happen in a domain context?): The man who is applying for the job...
 
 # Remedial: Re-presentation
 
-Naming and description seem to be irreducible acts: just as objectification 
-and classification, prescription and description, and so on. Many "distinctions" 
-at once seem necessary as much in their contexts as they seem linked to other 
-necessities in other contexts. How is 'naming' more or less like 'objectification'? 
+<i>Naming</i> and <i>description</i> seem to be irreducible acts: just as <i>objectification</i> 
+and <i>classification</i>, <i>prescription</i> and <i>description</i>, and so on. 
+Many "distinctions" at once seem necessary as much in their contexts as they 
+seem linked to other necessities in other contexts. How is 'naming' more or 
+less identical than 'objectification', as Ludwig Wittgenstein might ask? 
+
 How is 'classification' more or less identical than 'description'? Indeed, nothing 
 in the act of naming determines syntactic categories, nor do syntactic categories, 
 if realized, guarantee that the lexical item not be used as a name, from a pragmatic 
-perspective. Linguistics, semantics, semiotics, pragmatics all meet to 
-condition the horizon of possibility of autonomy (material unconscious), 
+perspective. Linguistics (quantity; didactic), semantics (quality; amorous), 
+semiotics (relevance; inaesthetics), pragmatics (manner; aisthetics) all meet 
+to condition the horizon of possibility of autonomy (material unconscious), 
 functionality (machinic unconscious), intentionality (subjective unconscious) 
-and ... (territorial unconscious); the four aspects of System Level Design, then, 
-can be re-cast in Deleuze's simple philosophical materials.
+and ... (territorial unconscious); the four aspects of System Level Design, 
+then, can be re-cast in Deleuze's simple philosophical materials.
 
 # Remedial: Re-presentation
 
