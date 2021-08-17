@@ -109,10 +109,10 @@ in the very naming ("hard problem") at the property level. We are <i>interfacing
 
 So imagine the same payload but it is a PUT request: for whatever reason, they 
 can update either of these properties, but in virtue of how they were arranged 
-to the structure of presentational immediacy given of the client. The obvious 
-point is that we often determine the naming pattern of [class]es or [id]s 
-based on these properties at the outset: we are developing the interface at 
-the initial baptism of a property-level name.
+to the structure of <i>presentational immediacy</i> given of the client. The obvious 
+point is that we often determine the naming pattern of <code>[class]</code>es 
+or <code>[id]</code>s based on these properties at the outset: we are 
+developing the interface at the initial baptism of a property-level name.
 
 # Remedial: Re-presentation
 
@@ -151,9 +151,14 @@ problem space in which agreement on solution, as much as iterative PROCEDURE
 is possible, with all the contextual logic following with it; our work to be 
 done.
 
-So FORMs become simple or abstract (multiple sequential or parallel) 
-assemblages referred to by us in mentioning names both dynamic or generated or 
-static in link relation (response API payload).
+So FORMs become simple or abstract (multiple sequential or parallel; i.e., 
+mereologically complex, in the world, categorically heterogeneous, 
+ontologically homogeneous, etc.) assemblages referred to by us in mentioning 
+names both dynamic or generated or static in link relation (response API payload).
+
+HAM (hypertext abstract machines) was first proposed about a decade about, 
+and CREST (computational REST) wasn't far behind, each outlining the precipice 
+before us: the ingression of metacomputational PROCEDURE.
 
 # Brass Syntax
 
