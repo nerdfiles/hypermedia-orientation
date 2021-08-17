@@ -156,8 +156,8 @@ mereologically complex, in the world, categorically heterogeneous,
 ontologically homogeneous, etc.) assemblages referred to by us in mentioning 
 names both dynamic or generated or static in link relation (response API payload).
 
-HAM (hypertext abstract machines) was first proposed about a decade about, 
-and CREST (computational REST) wasn't far behind, each outlining the precipice 
+[HAM][ham] (hypertext abstract machines) was first proposed about a decade about, 
+and [CREST][crest] (computational REST) wasn't far behind, each outlining the precipice 
 before us: the ingression of metacomputational PROCEDURE.
 
 # Brass Syntax
@@ -1101,3 +1101,5 @@ consolidated that identity.</p>
 [p2pweb]: https://github.com/elendirx/web2web
 [harrison]: https://www.bestmusicteacher.com/download/harrisons_clocks.pdf
 [psychonomich]: https://dualyticalchemy.medium.com/psychonomic-hypermedia-551196d3e017
+[ham]: http://paul.luon.net/hypermedia/chapter6/modelsFrameworks/ham.html
+[crest]: http://erenkrantz.com/CREST/
